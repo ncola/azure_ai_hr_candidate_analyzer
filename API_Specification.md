@@ -1,8 +1,8 @@
-**Frontend API Requirements**
+## **Frontend API Requirements**
 
 This document outlines the API specification the frontend will be building against. We require two main endpoints to handle the candidate analysis workflow.
 
-**1. Start Analysis (Input)**
+### **1. Start Analysis (Input)**
 
 The frontend will send the job description and all CV files in a single request to initiate the analysis.
 
@@ -28,7 +28,7 @@ The response body should return an ID for polling the results.
 }
 ```
 
-**2. Get Analysis Results (Output)**
+### **2. Get Analysis Results (Output)**
 
 The frontend will poll this endpoint using the analysisId to get the final report.
 
@@ -39,7 +39,7 @@ The frontend will poll this endpoint using the analysisId to get the final repor
 **Response Body:** The frontend requires the exact JSON structure defined below to render the results dashboard and the detailed candidate reports.
 
 
-**Required JSON Response Structure:**
+### **Required JSON Response Structure:**
 
 The candidates array should be sorted by overallScore (descending).
 ```
