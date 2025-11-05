@@ -143,5 +143,6 @@ The candidates array should be sorted by overallScore (descending).
       "detailedReport": null
     }
   ]
-```
 }
+```
+
