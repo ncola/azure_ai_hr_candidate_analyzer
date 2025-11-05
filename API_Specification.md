@@ -1,22 +1,22 @@
-Frontend API Requirements
+**Frontend API Requirements**
 
 This document outlines the API specification the frontend will be building against. We require two main endpoints to handle the candidate analysis workflow.
 
-1. Start Analysis (Input)
+**1. Start Analysis (Input)**
 
 The frontend will send the job description and all CV files in a single request to initiate the analysis.
 
-Endpoint: POST /api/analyze
+Endpoint: `POST /api/analyze`
 
 Request Format: multipart/form-data
 
 Form Fields:
 
-jobDescription: (string) The full text of the job offer.
+`jobDescription`: (string) The full text of the job offer.
 
-cvFiles: (array of files) One or more CV files (e.g., .pdf, .docx).
+`cvFiles`: (array of files) One or more CV files (e.g., .pdf, .docx).
 
-Expected Response (Success): 202 Accepted
+Expected Response (Success): `202 Accepted`
 
 The backend should start the asynchronous analysis (Form Recognizer + GPT-4o).
 The response body should return an ID for polling the results.
@@ -28,13 +28,13 @@ The response body should return an ID for polling the results.
 }
 ```
 
-2. Get Analysis Results (Output)
+**2. Get Analysis Results (Output)**
 
 The frontend will poll this endpoint using the analysisId to get the final report.
 
-Endpoint: GET /api/results/{analysisId}
+Endpoint: `GET /api/results/{analysisId}`
 
-Expected Response (Success): 200 OK
+Expected Response (Success): `200 OK`
 
 Response Body: The frontend requires the exact JSON structure defined below to render the results dashboard and the detailed candidate reports.
 
