@@ -1,6 +1,3 @@
-
-// comment style according to user instructions
-
 import axios from 'axios';
 import { AnalysisResponse, StartAnalysisResponse } from '../types/apiTypes';
 
@@ -12,8 +9,8 @@ const apiClient = axios.create({
 });
 
 /**
- * starts the analysis process.
- * sends job description and cv files as 'multipart/form-data'.
+ * starts the analysis process
+ * sends job description and cv files as 'multipart/form-data'
  *
  *
  * @param jobDescription - the full text of the job offer.
@@ -78,3 +75,5 @@ export const analysisApi = {
   startAnalysis,
   getAnalysisResults,
 };
+
+//uwu?
