@@ -1,0 +1,20 @@
+Job title: SAP BW Analyst
+
+Responsibilities:
+- Develop and maintain SAP BW data models and reports.
+- Implement ETL processes to extract, transform, and load data from various sources.
+- Collaborate with business stakeholders to understand reporting requirements.
+- Ensure data accuracy and consistency across BW systems.
+- Optimize performance of SAP BW queries and processes.
+- Support troubleshooting and issue resolution for BW reports and data flows.
+
+Required skills:
+- SAP BW
+- Data Modeling
+- ETL 
+- ABAP
+- SQL
+- Data Warehousing
+- Reporting
+- Business Intelligence
+- Excel

@@ -1,0 +1,19 @@
+Job Title: Data Scientist
+
+Responsibilities:
+- Build and deploy predictive machine learning models
+- Perform exploratory data analysis and statistical research
+- Prepare, clean, and transform data for modeling
+- Create automated dashboards and data visualizations
+- Work with cloud platforms for model deployment
+- Collaborate with engineering teams on data pipelines
+
+Required Skills:
+- Python
+- Machine Learning
+- SQL
+- Statistics
+- Pandas
+- NumPy
+- Git
+- AWS
