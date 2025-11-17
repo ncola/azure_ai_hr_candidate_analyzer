@@ -1,0 +1,430 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "JASON MILLER",
+          "bounding_box": [
+            0.622,
+            0.5078,
+            2.8807,
+            0.5068,
+            2.8808,
+            0.7232,
+            0.6221,
+            0.7242
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6306,
+            0.9979,
+            1.8019,
+            0.9965,
+            1.8021,
+            1.1819,
+            0.6308,
+            1.1833
+          ]
+        },
+        {
+          "content": "E-mail: jason.miller@example.com",
+          "bounding_box": [
+            0.6233,
+            1.2478,
+            3.5105,
+            1.2491,
+            3.5104,
+            1.4522,
+            0.6232,
+            1.4509
+          ]
+        },
+        {
+          "content": "Phone number: 454-123-124",
+          "bounding_box": [
+            0.6253,
+            1.5402,
+            2.7239,
+            1.5362,
+            2.7242,
+            1.7185,
+            0.6257,
+            1.7225
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/jasonmiller",
+          "bounding_box": [
+            0.6261,
+            1.7996,
+            3.4118,
+            1.7991,
+            3.4119,
+            2.0001,
+            0.6262,
+            2.0006
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6233,
+            2.2382,
+            1.6707,
+            2.2375,
+            1.6708,
+            2.4241,
+            0.6234,
+            2.4248
+          ]
+        },
+        {
+          "content": "Motivated Sales and Marketing Assistant with strong communication skills and",
+          "bounding_box": [
+            0.6242,
+            2.5643,
+            7.0698,
+            2.5619,
+            7.0699,
+            2.7662,
+            0.6243,
+            2.7685
+          ]
+        },
+        {
+          "content": "hands-on experience supporting campaigns, customer outreach, and basic reporting.",
+          "bounding_box": [
+            0.6211,
+            2.8551,
+            7.4202,
+            2.8587,
+            7.4201,
+            3.0721,
+            0.621,
+            3.0677
+          ]
+        },
+        {
+          "content": "Quick learner with growing interest in digital marketing and analytics, seeking",
+          "bounding_box": [
+            0.63,
+            3.1426,
+            7.0345,
+            3.1464,
+            7.0344,
+            3.3631,
+            0.6299,
+            3.3593
+          ]
+        },
+        {
+          "content": "opportunities to expand technical skills.",
+          "bounding_box": [
+            0.63,
+            3.4547,
+            3.878,
+            3.433,
+            3.8793,
+            3.6338,
+            0.6314,
+            3.6545
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6332,
+            4.0454,
+            3.0243,
+            4.0446,
+            3.0243,
+            4.2364,
+            0.6333,
+            4.237
+          ]
+        },
+        {
+          "content": "SALES ASSISTANT",
+          "bounding_box": [
+            0.6326,
+            4.3705,
+            2.472,
+            4.3677,
+            2.4723,
+            4.5479,
+            0.6329,
+            4.5507
+          ]
+        },
+        {
+          "content": "Market Inc",
+          "bounding_box": [
+            0.626,
+            4.5869,
+            1.5448,
+            4.5887,
+            1.5444,
+            4.7618,
+            0.6257,
+            4.7599
+          ]
+        },
+        {
+          "content": "January 2020 - Present",
+          "bounding_box": [
+            0.6269,
+            4.8093,
+            2.5338,
+            4.8024,
+            2.5346,
+            4.9987,
+            0.6276,
+            5.0056
+          ]
+        },
+        {
+          "content": "Assist sales and marketing teams with daily operational tasks, prepare simple",
+          "bounding_box": [
+            0.6329,
+            5.0878,
+            7.0509,
+            5.0915,
+            7.0505,
+            5.3108,
+            0.6324,
+            5.2978
+          ]
+        },
+        {
+          "content": "Excel-based reports, support campaign coordination, and maintain customer",
+          "bounding_box": [
+            0.6255,
+            5.3851,
+            6.9302,
+            5.3845,
+            6.9302,
+            5.5937,
+            0.6256,
+            5.5943
+          ]
+        },
+        {
+          "content": "communication. Responsible for updating promotional materials, tracking basic",
+          "bounding_box": [
+            0.6306,
+            5.6769,
+            7.2324,
+            5.6759,
+            7.2325,
+            5.886,
+            0.6307,
+            5.8872
+          ]
+        },
+        {
+          "content": "KPIs, and ensuring smooth execution of marketing activities.",
+          "bounding_box": [
+            0.6249,
+            5.9655,
+            5.6971,
+            5.9671,
+            5.697,
+            6.1745,
+            0.6249,
+            6.1729
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6245,
+            6.5685,
+            2.0943,
+            6.5695,
+            2.0942,
+            6.7601,
+            0.6243,
+            6.7591
+          ]
+        },
+        {
+          "content": "B.A. Business Administration",
+          "bounding_box": [
+            0.6258,
+            6.818,
+            3.1134,
+            6.8219,
+            3.113,
+            7.0107,
+            0.6254,
+            7.0051
+          ]
+        },
+        {
+          "content": "2015 - 2019",
+          "bounding_box": [
+            0.6273,
+            7.0376,
+            1.6271,
+            7.0361,
+            1.6274,
+            7.2151,
+            0.6276,
+            7.2166
+          ]
+        },
+        {
+          "content": "University of Tenessee",
+          "bounding_box": [
+            0.6283,
+            7.2481,
+            2.5417,
+            7.2505,
+            2.5414,
+            7.4458,
+            0.6282,
+            7.4434
+          ]
+        },
+        {
+          "content": "Completed foundational coursework in business communication, marketing",
+          "bounding_box": [
+            0.6307,
+            7.566,
+            6.8676,
+            7.5697,
+            6.8674,
+            7.7855,
+            0.6304,
+            7.7789
+          ]
+        },
+        {
+          "content": "principles, and office technology. Developed strong organizational and",
+          "bounding_box": [
+            0.6192,
+            7.8526,
+            6.5321,
+            7.8458,
+            6.5325,
+            8.0634,
+            0.6196,
+            8.0737
+          ]
+        },
+        {
+          "content": "analytical skills applicable to marketing and sales support roles.",
+          "bounding_box": [
+            0.6256,
+            8.1313,
+            5.9528,
+            8.1333,
+            5.9527,
+            8.3415,
+            0.6255,
+            8.339
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6326,
+            8.7843,
+            1.5011,
+            8.7858,
+            1.5008,
+            8.9641,
+            0.6323,
+            8.9626
+          ]
+        },
+        {
+          "content": "Excel,",
+          "bounding_box": [
+            0.6283,
+            9.0973,
+            1.1523,
+            9.1005,
+            1.1513,
+            9.2774,
+            0.6272,
+            9.2742
+          ]
+        },
+        {
+          "content": "Communication",
+          "bounding_box": [
+            0.6311,
+            9.3818,
+            1.9466,
+            9.3843,
+            1.9461,
+            9.5596,
+            0.6307,
+            9.5559
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "JASON MILLER",
+      "role": null
+    },
+    {
+      "content": "CONTACT E-mail: jason.miller@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 454-123-124 LinkedIn: linkedin.com/in/jasonmiller",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": null
+    },
+    {
+      "content": "Motivated Sales and Marketing Assistant with strong communication skills and hands-on experience supporting campaigns, customer outreach, and basic reporting. Quick learner with growing interest in digital marketing and analytics, seeking opportunities to expand technical skills.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "SALES ASSISTANT Market Inc January 2020 - Present",
+      "role": null
+    },
+    {
+      "content": "Assist sales and marketing teams with daily operational tasks, prepare simple Excel-based reports, support campaign coordination, and maintain customer communication. Responsible for updating promotional materials, tracking basic KPIs, and ensuring smooth execution of marketing activities.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": null
+    },
+    {
+      "content": "B.A. Business Administration 2015 - 2019 University of Tenessee",
+      "role": null
+    },
+    {
+      "content": "Completed foundational coursework in business communication, marketing principles, and office technology. Developed strong organizational and analytical skills applicable to marketing and sales support roles.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Excel, Communication",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "JASON MILLER\nCONTACT E-mail: jason.miller@example.com\nPhone number: 454-123-124 LinkedIn: linkedin.com/in/jasonmiller\nPROFILE\nMotivated Sales and Marketing Assistant with strong communication skills and hands-on experience supporting campaigns, customer outreach, and basic reporting. Quick learner with growing interest in digital marketing and analytics, seeking opportunities to expand technical skills.\nWORK EXPERIENCE\nSALES ASSISTANT Market Inc January 2020 - Present\nAssist sales and marketing teams with daily operational tasks, prepare simple Excel-based reports, support campaign coordination, and maintain customer communication. Responsible for updating promotional materials, tracking basic KPIs, and ensuring smooth execution of marketing activities.\nEDUCATION\nB.A. Business Administration 2015 - 2019 University of Tenessee\nCompleted foundational coursework in business communication, marketing principles, and office technology. Developed strong organizational and analytical skills applicable to marketing and sales support roles.\nSKILLS\nExcel, Communication"
+}

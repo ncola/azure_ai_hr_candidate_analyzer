@@ -37,9 +37,12 @@ ENV/
 *.swo
 *~
 
-# Data files (zachowaj strukturę folderów ale nie commituj danych)
-data/results/*
+# Data files (zachowaj strukturę folderów ale commituj wyniki przetwarzania)
+data/results/*.pdf
+data/results/*.doc
+data/results/*.docx
 !data/results/.gitkeep
+!data/results/*.json
 
 # Logs
 *.log

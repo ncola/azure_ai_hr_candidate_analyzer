@@ -1,0 +1,486 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "THOMAS DUNCAN",
+          "bounding_box": [
+            0.6236,
+            0.5045,
+            3.3274,
+            0.5021,
+            3.3276,
+            0.7251,
+            0.6238,
+            0.7275
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6299,
+            0.996,
+            1.8011,
+            0.9969,
+            1.8009,
+            1.1834,
+            0.6297,
+            1.1825
+          ]
+        },
+        {
+          "content": "E-mail: t.duncan@example.com",
+          "bounding_box": [
+            0.6231,
+            1.2448,
+            3.2346,
+            1.2522,
+            3.2339,
+            1.4504,
+            0.6225,
+            1.4416
+          ]
+        },
+        {
+          "content": "Phone number: 555-777-888",
+          "bounding_box": [
+            0.6247,
+            1.5383,
+            2.7214,
+            1.5341,
+            2.7217,
+            1.7206,
+            0.625,
+            1.7245
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6106,
+            1.9736,
+            1.6608,
+            1.9743,
+            1.6607,
+            2.1627,
+            0.6105,
+            2.1621
+          ]
+        },
+        {
+          "content": "Data Engineer with experience in building and maintaining data pipelines, optimizing",
+          "bounding_box": [
+            0.6142,
+            2.2213,
+            7.5838,
+            2.2275,
+            7.5833,
+            2.4608,
+            0.6138,
+            2.448
+          ]
+        },
+        {
+          "content": "ETL workflows, and performing efficient data manipulation using SQL and Python.",
+          "bounding_box": [
+            0.6138,
+            2.5159,
+            7.4106,
+            2.5188,
+            7.4105,
+            2.7391,
+            0.6137,
+            2.7361
+          ]
+        },
+        {
+          "content": "Detail-oriented, process-driven, and focused on delivering reliable data solutions.",
+          "bounding_box": [
+            0.6125,
+            2.8095,
+            7.2503,
+            2.8067,
+            7.2504,
+            3.0215,
+            0.6126,
+            3.0242
+          ]
+        },
+        {
+          "content": "Strong analytical mindset and eager to expand skills into enterprise BI environments,",
+          "bounding_box": [
+            0.6205,
+            3.1043,
+            7.5342,
+            3.1052,
+            7.5342,
+            3.3176,
+            0.6205,
+            3.3171
+          ]
+        },
+        {
+          "content": "including SAP BW.",
+          "bounding_box": [
+            0.6137,
+            3.3961,
+            2.2194,
+            3.3934,
+            2.2198,
+            3.6007,
+            0.6141,
+            3.6031
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6183,
+            4.0052,
+            3.014,
+            4.0054,
+            3.014,
+            4.2036,
+            0.6182,
+            4.2034
+          ]
+        },
+        {
+          "content": "DATA ENGINEER",
+          "bounding_box": [
+            0.6255,
+            4.4695,
+            2.3167,
+            4.4672,
+            2.317,
+            4.6538,
+            0.6258,
+            4.656
+          ]
+        },
+        {
+          "content": "AnalyticsPro",
+          "bounding_box": [
+            0.6282,
+            4.69,
+            1.7071,
+            4.6881,
+            1.7075,
+            4.8811,
+            0.6283,
+            4.8832
+          ]
+        },
+        {
+          "content": "February 2021 - Present",
+          "bounding_box": [
+            0.6237,
+            4.9109,
+            2.6355,
+            4.9097,
+            2.6357,
+            5.1108,
+            0.6238,
+            5.112
+          ]
+        },
+        {
+          "content": "Develop and maintain ETL pipelines used across analytics and reporting teams.",
+          "bounding_box": [
+            0.6329,
+            5.2665,
+            7.2258,
+            5.2742,
+            7.2256,
+            5.4965,
+            0.6326,
+            5.4889
+          ]
+        },
+        {
+          "content": "Implement automated data workflows using Python and SQL. Responsible for",
+          "bounding_box": [
+            0.6308,
+            5.5594,
+            7.091,
+            5.5566,
+            7.0911,
+            5.7804,
+            0.6309,
+            5.7832
+          ]
+        },
+        {
+          "content": "extracting, transforming, and loading data from various sources into centralized",
+          "bounding_box": [
+            0.6378,
+            5.8616,
+            7.269,
+            5.8506,
+            7.2693,
+            6.061,
+            0.6381,
+            6.0719
+          ]
+        },
+        {
+          "content": "repositories. Collaborate with data analysts and business stakeholders to ensure",
+          "bounding_box": [
+            0.6299,
+            6.1502,
+            7.2401,
+            6.1442,
+            7.2404,
+            6.3536,
+            0.6302,
+            6.3631
+          ]
+        },
+        {
+          "content": "data quality and consistency. No direct experience with SAP BW, but familiar",
+          "bounding_box": [
+            0.6382,
+            6.437,
+            7.1289,
+            6.4319,
+            7.1291,
+            6.6517,
+            0.6383,
+            6.6567
+          ]
+        },
+        {
+          "content": "with enterprise data environments and structured ETL processes.",
+          "bounding_box": [
+            0.6356,
+            6.7291,
+            6.0045,
+            6.7277,
+            6.0045,
+            6.9381,
+            0.6357,
+            6.9395
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6229,
+            7.2691,
+            2.0945,
+            7.2691,
+            2.0948,
+            7.4632,
+            0.6232,
+            7.4651
+          ]
+        },
+        {
+          "content": "B.S. Computer Science",
+          "bounding_box": [
+            0.6264,
+            7.5178,
+            2.5514,
+            7.5179,
+            2.5513,
+            7.7189,
+            0.6264,
+            7.7188
+          ]
+        },
+        {
+          "content": "2016-2020",
+          "bounding_box": [
+            0.625,
+            7.7298,
+            1.5175,
+            7.731,
+            1.5172,
+            7.9178,
+            0.6248,
+            7.9166
+          ]
+        },
+        {
+          "content": "University of Colorado Boulder",
+          "bounding_box": [
+            0.6298,
+            7.9452,
+            3.2696,
+            7.9446,
+            3.2696,
+            8.1479,
+            0.6298,
+            8.1484
+          ]
+        },
+        {
+          "content": "Coursework included algorithms, distributed systems, databases, software",
+          "bounding_box": [
+            0.6303,
+            8.2709,
+            6.7588,
+            8.2743,
+            6.7587,
+            8.4796,
+            0.6302,
+            8.4764
+          ]
+        },
+        {
+          "content": "engineering, and data structures. Gained strong foundations in programming,",
+          "bounding_box": [
+            0.6284,
+            8.5481,
+            6.9989,
+            8.5544,
+            6.9986,
+            8.7709,
+            0.6282,
+            8.764
+          ]
+        },
+        {
+          "content": "data processing, and computational problem solving through academic and",
+          "bounding_box": [
+            0.6303,
+            8.8321,
+            6.8234,
+            8.824,
+            6.8236,
+            9.0444,
+            0.6306,
+            9.0506
+          ]
+        },
+        {
+          "content": "project work.",
+          "bounding_box": [
+            0.6143,
+            9.1308,
+            1.737,
+            9.116,
+            1.7396,
+            9.3144,
+            0.6169,
+            9.3293
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6399,
+            9.7316,
+            1.5095,
+            9.7311,
+            1.5096,
+            9.9118,
+            0.64,
+            9.9124
+          ]
+        },
+        {
+          "content": "SQL,",
+          "bounding_box": [
+            0.636,
+            10.0451,
+            1.0746,
+            10.0469,
+            1.0738,
+            10.2397,
+            0.6352,
+            10.2378
+          ]
+        },
+        {
+          "content": "Python,",
+          "bounding_box": [
+            0.6311,
+            10.325,
+            1.2746,
+            10.3274,
+            1.2738,
+            10.5226,
+            0.6304,
+            10.5202
+          ]
+        },
+        {
+          "content": "ETL",
+          "bounding_box": [
+            0.6323,
+            10.6059,
+            1.0072,
+            10.6058,
+            1.0072,
+            10.7688,
+            0.6323,
+            10.7689
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "THOMAS DUNCAN",
+      "role": null
+    },
+    {
+      "content": "CONTACT E-mail: t.duncan@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-777-888",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Data Engineer with experience in building and maintaining data pipelines, optimizing ETL workflows, and performing efficient data manipulation using SQL and Python. Detail-oriented, process-driven, and focused on delivering reliable data solutions.",
+      "role": null
+    },
+    {
+      "content": "Strong analytical mindset and eager to expand skills into enterprise BI environments, including SAP BW.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "DATA ENGINEER AnalyticsPro February 2021 - Present",
+      "role": null
+    },
+    {
+      "content": "Develop and maintain ETL pipelines used across analytics and reporting teams. Implement automated data workflows using Python and SQL. Responsible for extracting, transforming, and loading data from various sources into centralized repositories. Collaborate with data analysts and business stakeholders to ensure data quality and consistency. No direct experience with SAP BW, but familiar with enterprise data environments and structured ETL processes.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "B.S. Computer Science 2016-2020 University of Colorado Boulder",
+      "role": null
+    },
+    {
+      "content": "Coursework included algorithms, distributed systems, databases, software engineering, and data structures. Gained strong foundations in programming, data processing, and computational problem solving through academic and project work.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "SQL, Python, ETL",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "THOMAS DUNCAN\nCONTACT E-mail: t.duncan@example.com\nPhone number: 555-777-888\nPROFILE\nData Engineer with experience in building and maintaining data pipelines, optimizing ETL workflows, and performing efficient data manipulation using SQL and Python. Detail-oriented, process-driven, and focused on delivering reliable data solutions.\nStrong analytical mindset and eager to expand skills into enterprise BI environments, including SAP BW.\nWORK EXPERIENCE\nDATA ENGINEER AnalyticsPro February 2021 - Present\nDevelop and maintain ETL pipelines used across analytics and reporting teams. Implement automated data workflows using Python and SQL. Responsible for extracting, transforming, and loading data from various sources into centralized repositories. Collaborate with data analysts and business stakeholders to ensure data quality and consistency. No direct experience with SAP BW, but familiar with enterprise data environments and structured ETL processes.\nEDUCATION\nB.S. Computer Science 2016-2020 University of Colorado Boulder\nCoursework included algorithms, distributed systems, databases, software engineering, and data structures. Gained strong foundations in programming, data processing, and computational problem solving through academic and project work.\nSKILLS\nSQL, Python, ETL"
+}

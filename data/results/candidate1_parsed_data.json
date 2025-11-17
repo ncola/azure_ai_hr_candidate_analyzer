@@ -1,0 +1,46 @@
+{
+  "personal_info": {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "555-123-456",
+    "linkedin": "linkedin.com/in/alicejohnson"
+  },
+  "experience": [
+    {
+      "position": "Data Scientist",
+      "company": "Tech Analytics",
+      "start_date": "June 2020",
+      "end_date": "Present",
+      "description": "Developed predictive models, performed statistical analysis, and deployed ML pipelines to AWS. Built automated Tableau dashboards and collaborated with engineers on scalable data pipelines.",
+      "technologies": [
+        "Python",
+        "Machine Learning",
+        "AWS",
+        "Tableau"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S.",
+      "field_of_study": "Computer Science",
+      "institution": "University of Alaska",
+      "graduation_year": "2020",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Statistics",
+    "Pandas",
+    "NumPy",
+    "Data Visualization",
+    "Tableau",
+    "Git",
+    "AWS",
+    "Deep Learning",
+    "NLP"
+  ]
+}

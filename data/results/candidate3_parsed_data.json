@@ -1,0 +1,43 @@
+{
+  "personal_info": {
+    "name": "Brian Smith",
+    "email": "brian.smith@example.com",
+    "phone": "555-987-654",
+    "linkedin": "linkedin.com/in/briansmit"
+  },
+  "experience": [
+    {
+      "position": "Data Analyst",
+      "company": "Insight Corp",
+      "start_date": "March 2021",
+      "end_date": "Current",
+      "description": "Analyzed large sales datasets to identify trends and insights. Built predictive models for customer behavior and campaign performance using Python and machine learning techniques. Created interactive dashboards and visualizations to support business teams in strategic decision-making. Collaborated with cross-functional teams to optimize data collection and reporting processes.",
+      "technologies": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S",
+      "field_of_study": "Statistics",
+      "institution": "Ohio State University",
+      "graduation_year": "2019",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Power BI",
+    "Statistics",
+    "Pandas",
+    "NumPy",
+    "Data Cleaning",
+    "Feature Engineering"
+  ]
+}

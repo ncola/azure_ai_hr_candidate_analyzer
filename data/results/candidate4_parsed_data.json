@@ -1,0 +1,42 @@
+{
+  "personal_info": {
+    "name": "Catherine Lee",
+    "email": "catherine.lee@example.com",
+    "phone": "555-222-333",
+    "linkedin": "linkedin.com/in/catherinelee"
+  },
+  "experience": [
+    {
+      "position": "Machine Learning Intern",
+      "company": "AI Research Labs",
+      "start_date": "May 2022",
+      "end_date": "June 2023",
+      "description": "Developed machine learning prototypes and proof-of-concept models. Performed extensive exploratory data analysis and data preprocessing. Supported NLP experiments for internal research projects, including text classification and sentiment analysis. Created visualizations and reports to summarize research findings.",
+      "technologies": [
+        "Machine Learning",
+        "NLP",
+        "Python",
+        "EDA"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S.",
+      "field_of_study": "Computer Science",
+      "institution": "Stanford University",
+      "graduation_year": "2023",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Statistics",
+    "Pandas",
+    "NumPy",
+    "NLP",
+    "Deep Learning",
+    "EDA"
+  ]
+}

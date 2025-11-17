@@ -1,0 +1,533 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "ALICE JOHNSON",
+          "bounding_box": [
+            0.6295,
+            0.5026,
+            3.0893,
+            0.5028,
+            3.0893,
+            0.7242,
+            0.6294,
+            0.724
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6296,
+            0.8661,
+            1.7995,
+            0.8655,
+            1.7996,
+            1.0517,
+            0.6297,
+            1.0523
+          ]
+        },
+        {
+          "content": "E-mail: alice.johnson@example.com",
+          "bounding_box": [
+            0.6286,
+            1.1149,
+            3.6201,
+            1.1211,
+            3.6197,
+            1.318,
+            0.6282,
+            1.3118
+          ]
+        },
+        {
+          "content": "Phone number: 555-123-456",
+          "bounding_box": [
+            0.6262,
+            1.409,
+            2.7265,
+            1.4057,
+            2.7268,
+            1.5869,
+            0.6264,
+            1.5902
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/alicejohnson",
+          "bounding_box": [
+            0.6235,
+            1.6674,
+            3.5094,
+            1.6744,
+            3.5087,
+            1.8662,
+            0.6228,
+            1.8552
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6226,
+            2.0558,
+            1.6702,
+            2.0546,
+            1.6704,
+            2.2407,
+            0.6228,
+            2.2419
+          ]
+        },
+        {
+          "content": "With four years experience working as a data scientist and strong academic",
+          "bounding_box": [
+            0.634,
+            2.3821,
+            6.742,
+            2.3811,
+            6.7421,
+            2.5861,
+            0.6341,
+            2.5867
+          ]
+        },
+        {
+          "content": "background in machine learning and programming, I strive to bring high-",
+          "bounding_box": [
+            0.622,
+            2.6665,
+            6.576,
+            2.6678,
+            6.5759,
+            2.8857,
+            0.6219,
+            2.8844
+          ]
+        },
+        {
+          "content": "quality solutions to businesses seeking higher efficiency. With expertise in",
+          "bounding_box": [
+            0.6278,
+            2.9636,
+            6.7189,
+            2.9579,
+            6.7193,
+            3.1704,
+            0.6281,
+            3.1802
+          ]
+        },
+        {
+          "content": "advanced statistical algorithms, machine learning and strong Python Skills.",
+          "bounding_box": [
+            0.6262,
+            3.2524,
+            6.7328,
+            3.2524,
+            6.7328,
+            3.4639,
+            0.6262,
+            3.4639
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6323,
+            3.7297,
+            3.0238,
+            3.7283,
+            3.0239,
+            3.922,
+            0.6324,
+            3.9229
+          ]
+        },
+        {
+          "content": "DATA SCIENTIST",
+          "bounding_box": [
+            0.6261,
+            4.0552,
+            2.3337,
+            4.0517,
+            2.3341,
+            4.2371,
+            0.6265,
+            4.2405
+          ]
+        },
+        {
+          "content": "Tech Analytics",
+          "bounding_box": [
+            0.6308,
+            4.2655,
+            1.8891,
+            4.2695,
+            1.8883,
+            4.47,
+            0.6299,
+            4.4647
+          ]
+        },
+        {
+          "content": "June 2020 - Present",
+          "bounding_box": [
+            0.6286,
+            4.4939,
+            2.2726,
+            4.4946,
+            2.2725,
+            4.6766,
+            0.6285,
+            4.6761
+          ]
+        },
+        {
+          "content": "Developed predictive models, performed statistical analysis, and deployed",
+          "bounding_box": [
+            0.6258,
+            4.7649,
+            6.8047,
+            4.7624,
+            6.8048,
+            4.977,
+            0.6259,
+            4.9793
+          ]
+        },
+        {
+          "content": "ML pipelines to AWS. Built automated Tableau dashboards and collaborated",
+          "bounding_box": [
+            0.6239,
+            5.0508,
+            6.9975,
+            5.0504,
+            6.9975,
+            5.2725,
+            0.6239,
+            5.2729
+          ]
+        },
+        {
+          "content": "with engineers on scalable data pipelines.",
+          "bounding_box": [
+            0.6271,
+            5.351,
+            4.0846,
+            5.3507,
+            4.0846,
+            5.5587,
+            0.6271,
+            5.559
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6217,
+            5.9344,
+            2.0939,
+            5.9316,
+            2.0943,
+            6.127,
+            0.6221,
+            6.1297
+          ]
+        },
+        {
+          "content": "B.S .. in Computer Science",
+          "bounding_box": [
+            0.627,
+            6.1841,
+            2.826,
+            6.1891,
+            2.8255,
+            6.3895,
+            0.6264,
+            6.3838
+          ]
+        },
+        {
+          "content": "2016 - 2020",
+          "bounding_box": [
+            0.6262,
+            6.3997,
+            1.6292,
+            6.401,
+            1.629,
+            6.5874,
+            0.6259,
+            6.5861
+          ]
+        },
+        {
+          "content": "University of Alaska",
+          "bounding_box": [
+            0.6296,
+            6.6189,
+            2.3601,
+            6.6213,
+            2.3598,
+            6.818,
+            0.6293,
+            6.8168
+          ]
+        },
+        {
+          "content": "Computer Science with specialization in Big Data Analysis",
+          "bounding_box": [
+            0.6314,
+            6.9201,
+            5.5417,
+            6.9186,
+            5.5417,
+            7.1315,
+            0.6314,
+            7.132
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6333,
+            7.5415,
+            1.501,
+            7.5443,
+            1.5004,
+            7.7294,
+            0.6327,
+            7.7266
+          ]
+        },
+        {
+          "content": "Python,",
+          "bounding_box": [
+            0.6266,
+            7.8578,
+            1.2668,
+            7.8606,
+            1.266,
+            8.058,
+            0.6257,
+            8.0552
+          ]
+        },
+        {
+          "content": "Machine Learning,",
+          "bounding_box": [
+            0.6239,
+            8.1272,
+            2.1902,
+            8.1441,
+            2.1881,
+            8.3385,
+            0.6225,
+            8.3217
+          ]
+        },
+        {
+          "content": "SQL,",
+          "bounding_box": [
+            0.6316,
+            8.4209,
+            1.0673,
+            8.4269,
+            1.0646,
+            8.6202,
+            0.629,
+            8.6142
+          ]
+        },
+        {
+          "content": "Statistics,",
+          "bounding_box": [
+            0.6322,
+            8.7015,
+            1.4494,
+            8.7104,
+            1.4475,
+            8.8905,
+            0.6303,
+            8.8816
+          ]
+        },
+        {
+          "content": "Pandas,",
+          "bounding_box": [
+            0.6275,
+            8.9841,
+            1.2686,
+            8.9914,
+            1.2666,
+            9.1689,
+            0.6255,
+            9.1616
+          ]
+        },
+        {
+          "content": "NumPy,",
+          "bounding_box": [
+            0.6208,
+            9.2608,
+            1.2964,
+            9.2682,
+            1.2946,
+            9.4625,
+            0.6187,
+            9.4551
+          ]
+        },
+        {
+          "content": "Data Visualization,",
+          "bounding_box": [
+            0.6266,
+            9.5434,
+            2.2342,
+            9.5561,
+            2.2327,
+            9.7384,
+            0.6251,
+            9.7258
+          ]
+        },
+        {
+          "content": "Tableau,",
+          "bounding_box": [
+            0.6311,
+            9.8284,
+            1.3478,
+            9.8372,
+            1.3458,
+            10.0125,
+            0.6289,
+            10.0037
+          ]
+        },
+        {
+          "content": "Git,",
+          "bounding_box": [
+            0.6311,
+            10.111,
+            0.958,
+            10.1142,
+            0.9563,
+            10.2885,
+            0.6293,
+            10.2853
+          ]
+        },
+        {
+          "content": "AWS,",
+          "bounding_box": [
+            0.6263,
+            10.3886,
+            1.1251,
+            10.3914,
+            1.1241,
+            10.5693,
+            0.6253,
+            10.5665
+          ]
+        },
+        {
+          "content": "Deep Learning,",
+          "bounding_box": [
+            0.6224,
+            10.6674,
+            1.9115,
+            10.6777,
+            1.9098,
+            10.8834,
+            0.6207,
+            10.8731
+          ]
+        },
+        {
+          "content": "NLP",
+          "bounding_box": [
+            0.6187,
+            10.9557,
+            1.0086,
+            10.9553,
+            1.0088,
+            11.1159,
+            0.6189,
+            11.1163
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "ALICE JOHNSON",
+      "role": "title"
+    },
+    {
+      "content": "CONTACT",
+      "role": null
+    },
+    {
+      "content": "E-mail: alice.johnson@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-123-456",
+      "role": null
+    },
+    {
+      "content": "LinkedIn: linkedin.com/in/alicejohnson",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "With four years experience working as a data scientist and strong academic background in machine learning and programming, I strive to bring high- quality solutions to businesses seeking higher efficiency. With expertise in advanced statistical algorithms, machine learning and strong Python Skills.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "DATA SCIENTIST",
+      "role": null
+    },
+    {
+      "content": "Tech Analytics June 2020 - Present",
+      "role": null
+    },
+    {
+      "content": "Developed predictive models, performed statistical analysis, and deployed ML pipelines to AWS. Built automated Tableau dashboards and collaborated with engineers on scalable data pipelines.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "B.S .. in Computer Science 2016 - 2020 University of Alaska",
+      "role": null
+    },
+    {
+      "content": "Computer Science with specialization in Big Data Analysis",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Python, Machine Learning, SQL, Statistics, Pandas, NumPy, Data Visualization, Tableau, Git, AWS, Deep Learning, NLP",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "ALICE JOHNSON\nCONTACT\nE-mail: alice.johnson@example.com\nPhone number: 555-123-456\nLinkedIn: linkedin.com/in/alicejohnson\nPROFILE\nWith four years experience working as a data scientist and strong academic background in machine learning and programming, I strive to bring high- quality solutions to businesses seeking higher efficiency. With expertise in advanced statistical algorithms, machine learning and strong Python Skills.\nWORK EXPERIENCE\nDATA SCIENTIST\nTech Analytics June 2020 - Present\nDeveloped predictive models, performed statistical analysis, and deployed ML pipelines to AWS. Built automated Tableau dashboards and collaborated with engineers on scalable data pipelines.\nEDUCATION\nB.S .. in Computer Science 2016 - 2020 University of Alaska\nComputer Science with specialization in Big Data Analysis\nSKILLS\nPython, Machine Learning, SQL, Statistics, Pandas, NumPy, Data Visualization, Tableau, Git, AWS, Deep Learning, NLP"
+}

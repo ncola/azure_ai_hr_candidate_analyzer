@@ -1,0 +1,490 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "CATHERINE STONE",
+          "bounding_box": [
+            0.6273,
+            0.5073,
+            3.5189,
+            0.505,
+            3.519,
+            0.7215,
+            0.6275,
+            0.7237
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6312,
+            0.9986,
+            1.8005,
+            0.9984,
+            1.8005,
+            1.1817,
+            0.6313,
+            1.1819
+          ]
+        },
+        {
+          "content": "E-mail: catherine.stone@example.com",
+          "bounding_box": [
+            0.6246,
+            1.2448,
+            3.7665,
+            1.2549,
+            3.7657,
+            1.4479,
+            0.6238,
+            1.4338
+          ]
+        },
+        {
+          "content": "Phone number: 605-234-455",
+          "bounding_box": [
+            0.6263,
+            1.5416,
+            2.7179,
+            1.5376,
+            2.7183,
+            1.7173,
+            0.6266,
+            1.7212
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/catherinestone",
+          "bounding_box": [
+            0.6269,
+            1.8036,
+            3.6395,
+            1.8069,
+            3.6393,
+            1.9877,
+            0.6267,
+            1.9845
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6226,
+            2.2385,
+            1.6702,
+            2.2373,
+            1.6704,
+            2.4237,
+            0.6228,
+            2.425
+          ]
+        },
+        {
+          "content": "Marketing Analyst with over 5 years of experience in data-driven campaign",
+          "bounding_box": [
+            0.6232,
+            2.5599,
+            6.7742,
+            2.5666,
+            6.7739,
+            2.776,
+            0.623,
+            2.7694
+          ]
+        },
+        {
+          "content": "optimization, SEO, and digital performance reporting. Skilled in analytical tools and",
+          "bounding_box": [
+            0.6297,
+            2.8575,
+            7.5125,
+            2.8494,
+            7.5128,
+            3.0604,
+            0.63,
+            3.0687
+          ]
+        },
+        {
+          "content": "content strategy, with strong communication and cross-team collaboration abilities.",
+          "bounding_box": [
+            0.6306,
+            3.1564,
+            7.3884,
+            3.1463,
+            7.3888,
+            3.3401,
+            0.6311,
+            3.3553
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6344,
+            3.713,
+            3.0232,
+            3.7108,
+            3.0233,
+            3.9059,
+            0.6346,
+            3.9081
+          ]
+        },
+        {
+          "content": "MARKETING ANALYST",
+          "bounding_box": [
+            0.6266,
+            4.0431,
+            2.9104,
+            4.0428,
+            2.9104,
+            4.2239,
+            0.6267,
+            4.2242
+          ]
+        },
+        {
+          "content": "Tech Solutions",
+          "bounding_box": [
+            0.632,
+            4.2532,
+            1.8773,
+            4.2557,
+            1.8769,
+            4.4334,
+            0.6317,
+            4.4309
+          ]
+        },
+        {
+          "content": "January 2019 - Present",
+          "bounding_box": [
+            0.6264,
+            4.4835,
+            2.5339,
+            4.4768,
+            2.5347,
+            4.6691,
+            0.6272,
+            4.6766
+          ]
+        },
+        {
+          "content": "Analyze marketing campaigns, prepare dashboards, report results, monitor",
+          "bounding_box": [
+            0.6265,
+            4.8548,
+            6.8095,
+            4.8524,
+            6.8095,
+            5.0674,
+            0.6266,
+            5.0698
+          ]
+        },
+        {
+          "content": "social media performance, optimize SEO, and support content creation",
+          "bounding_box": [
+            0.6297,
+            5.1438,
+            6.4904,
+            5.1453,
+            6.4903,
+            5.3553,
+            0.6296,
+            5.3538
+          ]
+        },
+        {
+          "content": "initiatives across multiple channels.",
+          "bounding_box": [
+            0.6261,
+            5.4361,
+            3.6112,
+            5.4387,
+            3.6109,
+            5.6472,
+            0.6258,
+            5.6425
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6236,
+            5.95,
+            2.0968,
+            5.9504,
+            2.0968,
+            6.1443,
+            0.6235,
+            6.1438
+          ]
+        },
+        {
+          "content": "B.A. in Marketing",
+          "bounding_box": [
+            0.6241,
+            6.2013,
+            2.1508,
+            6.2097,
+            2.149,
+            6.4055,
+            0.6225,
+            6.3914
+          ]
+        },
+        {
+          "content": "2014 - 2018",
+          "bounding_box": [
+            0.626,
+            6.4181,
+            1.6283,
+            6.4199,
+            1.628,
+            6.6018,
+            0.6257,
+            6.6
+          ]
+        },
+        {
+          "content": "University of California",
+          "bounding_box": [
+            0.6291,
+            6.6363,
+            2.6358,
+            6.6328,
+            2.6362,
+            6.8324,
+            0.6295,
+            6.8351
+          ]
+        },
+        {
+          "content": "Completed coursework in digital marketing, consumer behavior, market",
+          "bounding_box": [
+            0.6314,
+            6.9415,
+            6.5905,
+            6.9411,
+            6.5906,
+            7.1528,
+            0.6314,
+            7.1533
+          ]
+        },
+        {
+          "content": "research, analytics, and brand strategy. Gained hands-on experience with real",
+          "bounding_box": [
+            0.6243,
+            7.2248,
+            7.0591,
+            7.2202,
+            7.0593,
+            7.4291,
+            0.6244,
+            7.4337
+          ]
+        },
+        {
+          "content": "marketing projects and data-driven campaign evaluation.",
+          "bounding_box": [
+            0.6244,
+            7.5113,
+            5.3406,
+            7.5124,
+            5.3405,
+            7.7191,
+            0.6243,
+            7.718
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6317,
+            8.165,
+            1.4984,
+            8.1665,
+            1.4981,
+            8.3483,
+            0.6313,
+            8.3467
+          ]
+        },
+        {
+          "content": "Excel,",
+          "bounding_box": [
+            0.6269,
+            8.4841,
+            1.152,
+            8.4878,
+            1.1508,
+            8.6685,
+            0.6256,
+            8.6648
+          ]
+        },
+        {
+          "content": "Google Analytics,",
+          "bounding_box": [
+            0.631,
+            8.7603,
+            2.1351,
+            8.7665,
+            2.1343,
+            8.9702,
+            0.6302,
+            8.964
+          ]
+        },
+        {
+          "content": "Social Media Marketing,",
+          "bounding_box": [
+            0.6292,
+            9.0335,
+            2.6808,
+            9.0503,
+            2.6788,
+            9.2471,
+            0.6282,
+            9.226
+          ]
+        },
+        {
+          "content": "SEO,",
+          "bounding_box": [
+            0.6299,
+            9.326,
+            1.065,
+            9.3281,
+            1.0641,
+            9.5068,
+            0.6291,
+            9.5047
+          ]
+        },
+        {
+          "content": "Content Creation,",
+          "bounding_box": [
+            0.6299,
+            9.6102,
+            2.1017,
+            9.6206,
+            2.1007,
+            9.7987,
+            0.6285,
+            9.7877
+          ]
+        },
+        {
+          "content": "Reporting,",
+          "bounding_box": [
+            0.6269,
+            9.8985,
+            1.5086,
+            9.9034,
+            1.5075,
+            10.0956,
+            0.6258,
+            10.0907
+          ]
+        },
+        {
+          "content": "Data Analysis,",
+          "bounding_box": [
+            0.6251,
+            10.1701,
+            1.8504,
+            10.1761,
+            1.8495,
+            10.3653,
+            0.6242,
+            10.3593
+          ]
+        },
+        {
+          "content": "Communication",
+          "bounding_box": [
+            0.6308,
+            10.4553,
+            1.9458,
+            10.4573,
+            1.9455,
+            10.6251,
+            0.6305,
+            10.6229
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "CATHERINE STONE",
+      "role": "title"
+    },
+    {
+      "content": "CONTACT",
+      "role": null
+    },
+    {
+      "content": "E-mail: catherine.stone@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 605-234-455",
+      "role": null
+    },
+    {
+      "content": "LinkedIn: linkedin.com/in/catherinestone",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Marketing Analyst with over 5 years of experience in data-driven campaign optimization, SEO, and digital performance reporting. Skilled in analytical tools and content strategy, with strong communication and cross-team collaboration abilities.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "MARKETING ANALYST Tech Solutions January 2019 - Present",
+      "role": null
+    },
+    {
+      "content": "Analyze marketing campaigns, prepare dashboards, report results, monitor social media performance, optimize SEO, and support content creation initiatives across multiple channels.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "B.A. in Marketing 2014 - 2018 University of California",
+      "role": null
+    },
+    {
+      "content": "Completed coursework in digital marketing, consumer behavior, market research, analytics, and brand strategy. Gained hands-on experience with real marketing projects and data-driven campaign evaluation.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Excel, Google Analytics, Social Media Marketing, SEO, Content Creation, Reporting, Data Analysis, Communication",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "CATHERINE STONE\nCONTACT\nE-mail: catherine.stone@example.com\nPhone number: 605-234-455\nLinkedIn: linkedin.com/in/catherinestone\nPROFILE\nMarketing Analyst with over 5 years of experience in data-driven campaign optimization, SEO, and digital performance reporting. Skilled in analytical tools and content strategy, with strong communication and cross-team collaboration abilities.\nWORK EXPERIENCE\nMARKETING ANALYST Tech Solutions January 2019 - Present\nAnalyze marketing campaigns, prepare dashboards, report results, monitor social media performance, optimize SEO, and support content creation initiatives across multiple channels.\nEDUCATION\nB.A. in Marketing 2014 - 2018 University of California\nCompleted coursework in digital marketing, consumer behavior, market research, analytics, and brand strategy. Gained hands-on experience with real marketing projects and data-driven campaign evaluation.\nSKILLS\nExcel, Google Analytics, Social Media Marketing, SEO, Content Creation, Reporting, Data Analysis, Communication"
+}

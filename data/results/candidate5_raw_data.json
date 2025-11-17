@@ -1,0 +1,447 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "ANNA GREEN",
+          "bounding_box": [
+            0.6291,
+            0.5037,
+            2.6346,
+            0.5049,
+            2.6344,
+            0.723,
+            0.629,
+            0.7218
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6317,
+            0.9982,
+            1.8017,
+            0.9971,
+            1.8019,
+            1.1813,
+            0.6319,
+            1.182
+          ]
+        },
+        {
+          "content": "E-mail: anna.green@example.com",
+          "bounding_box": [
+            0.6241,
+            1.2502,
+            3.421,
+            1.2545,
+            3.4207,
+            1.4504,
+            0.6238,
+            1.4469
+          ]
+        },
+        {
+          "content": "Phone number: 886-123-344",
+          "bounding_box": [
+            0.6273,
+            1.5416,
+            2.7228,
+            1.5354,
+            2.7234,
+            1.7169,
+            0.6278,
+            1.723
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6229,
+            1.9996,
+            1.6723,
+            1.9979,
+            1.6726,
+            2.1813,
+            0.6232,
+            2.1829
+          ]
+        },
+        {
+          "content": "Content marketing specialist with experience in creating digital content, supporting",
+          "bounding_box": [
+            0.6326,
+            2.3183,
+            7.4187,
+            2.3283,
+            7.4182,
+            2.5502,
+            0.632,
+            2.5328
+          ]
+        },
+        {
+          "content": "social media campaigns, and preparing performance reports. Strong communication",
+          "bounding_box": [
+            0.6294,
+            2.613,
+            7.4113,
+            2.6187,
+            7.4112,
+            2.8322,
+            0.6292,
+            2.8273
+          ]
+        },
+        {
+          "content": "skills and a solid understanding of marketing fundamentals.",
+          "bounding_box": [
+            0.6311,
+            2.9008,
+            5.4768,
+            2.9076,
+            5.4765,
+            3.112,
+            0.6308,
+            3.106
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6331,
+            3.4627,
+            3.0234,
+            3.4609,
+            3.0235,
+            3.6523,
+            0.6333,
+            3.6541
+          ]
+        },
+        {
+          "content": "CONTENT MARKETING SPECIALIST",
+          "bounding_box": [
+            0.6328,
+            3.7906,
+            4.1555,
+            3.7908,
+            4.1555,
+            3.9749,
+            0.6328,
+            3.9747
+          ]
+        },
+        {
+          "content": "Consulting Group",
+          "bounding_box": [
+            0.6311,
+            4.0028,
+            2.1097,
+            4.0084,
+            2.1082,
+            4.2084,
+            0.6296,
+            4.1979
+          ]
+        },
+        {
+          "content": "June 2021 - Present",
+          "bounding_box": [
+            0.6272,
+            4.2303,
+            2.2723,
+            4.2335,
+            2.2719,
+            4.4122,
+            0.6268,
+            4.409
+          ]
+        },
+        {
+          "content": "Responsible for creating articles, posts, and campaign assets. Supports social",
+          "bounding_box": [
+            0.6249,
+            4.6882,
+            7.0397,
+            4.6845,
+            7.0398,
+            4.9012,
+            0.625,
+            4.9048
+          ]
+        },
+        {
+          "content": "media strategy execution, monitors basic campaign metrics, and collaborates",
+          "bounding_box": [
+            0.6215,
+            4.9807,
+            6.9949,
+            4.9738,
+            6.9952,
+            5.1875,
+            0.6218,
+            5.1944
+          ]
+        },
+        {
+          "content": "with design and sales teams. Prepares weekly performance summaries and",
+          "bounding_box": [
+            0.626,
+            5.2671,
+            6.7763,
+            5.2648,
+            6.7764,
+            5.478,
+            0.6261,
+            5.4804
+          ]
+        },
+        {
+          "content": "assists in simple data reporting tasks.",
+          "bounding_box": [
+            0.6285,
+            5.5617,
+            3.731,
+            5.5652,
+            3.7306,
+            5.773,
+            0.6282,
+            5.7678
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6223,
+            6.2535,
+            2.0957,
+            6.2525,
+            2.0958,
+            6.4492,
+            0.6224,
+            6.4501
+          ]
+        },
+        {
+          "content": "B.A. in Marketing",
+          "bounding_box": [
+            0.6245,
+            6.4925,
+            2.1514,
+            6.5065,
+            2.1493,
+            6.7047,
+            0.6225,
+            6.6885
+          ]
+        },
+        {
+          "content": "2018 - 2021",
+          "bounding_box": [
+            0.6269,
+            6.7199,
+            1.614,
+            6.7187,
+            1.6142,
+            6.9039,
+            0.6271,
+            6.9051
+          ]
+        },
+        {
+          "content": "University of Warsaw",
+          "bounding_box": [
+            0.6292,
+            6.9306,
+            2.4502,
+            6.9362,
+            2.4496,
+            7.132,
+            0.6286,
+            7.13
+          ]
+        },
+        {
+          "content": "Focused on digital marketing, brand communication, and consumer behavior.",
+          "bounding_box": [
+            0.6252,
+            7.2354,
+            7.0202,
+            7.236,
+            7.0202,
+            7.4494,
+            0.6252,
+            7.4488
+          ]
+        },
+        {
+          "content": "Completed coursework in advertising strategy and market research.",
+          "bounding_box": [
+            0.6291,
+            7.5172,
+            6.205,
+            7.5193,
+            6.2049,
+            7.7293,
+            0.629,
+            7.7273
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6326,
+            8.1824,
+            1.5005,
+            8.1839,
+            1.5002,
+            8.3654,
+            0.6322,
+            8.3645
+          ]
+        },
+        {
+          "content": "Content Creation,",
+          "bounding_box": [
+            0.6324,
+            8.495,
+            2.1011,
+            8.5031,
+            2.1001,
+            8.685,
+            0.6314,
+            8.6769
+          ]
+        },
+        {
+          "content": "Social Media Marketing,",
+          "bounding_box": [
+            0.6322,
+            8.7651,
+            2.6805,
+            8.7831,
+            2.6785,
+            8.9764,
+            0.6302,
+            8.9562
+          ]
+        },
+        {
+          "content": "Excel,",
+          "bounding_box": [
+            0.6242,
+            9.0621,
+            1.1557,
+            9.0644,
+            1.1546,
+            9.2461,
+            0.6231,
+            9.2427
+          ]
+        },
+        {
+          "content": "Communication,",
+          "bounding_box": [
+            0.631,
+            9.3419,
+            1.9949,
+            9.3516,
+            1.9932,
+            9.5355,
+            0.6292,
+            9.5227
+          ]
+        },
+        {
+          "content": "Copywriting,",
+          "bounding_box": [
+            0.6301,
+            9.6256,
+            1.7231,
+            9.6324,
+            1.7219,
+            9.83,
+            0.6288,
+            9.8231
+          ]
+        },
+        {
+          "content": "Basic Analytics",
+          "bounding_box": [
+            0.6247,
+            9.9024,
+            1.9378,
+            9.905,
+            1.9374,
+            10.096,
+            0.6243,
+            10.0934
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "ANNA GREEN",
+      "role": null
+    },
+    {
+      "content": "CONTACT E-mail: anna.green@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 886-123-344",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Content marketing specialist with experience in creating digital content, supporting social media campaigns, and preparing performance reports. Strong communication skills and a solid understanding of marketing fundamentals.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "CONTENT MARKETING SPECIALIST Consulting Group June 2021 - Present",
+      "role": null
+    },
+    {
+      "content": "Responsible for creating articles, posts, and campaign assets. Supports social media strategy execution, monitors basic campaign metrics, and collaborates with design and sales teams. Prepares weekly performance summaries and assists in simple data reporting tasks.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": null
+    },
+    {
+      "content": "B.A. in Marketing 2018 - 2021 University of Warsaw",
+      "role": null
+    },
+    {
+      "content": "Focused on digital marketing, brand communication, and consumer behavior. Completed coursework in advertising strategy and market research.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Content Creation,",
+      "role": null
+    },
+    {
+      "content": "Social Media Marketing, Excel, Communication, Copywriting, Basic Analytics",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "ANNA GREEN\nCONTACT E-mail: anna.green@example.com\nPhone number: 886-123-344\nPROFILE\nContent marketing specialist with experience in creating digital content, supporting social media campaigns, and preparing performance reports. Strong communication skills and a solid understanding of marketing fundamentals.\nWORK EXPERIENCE\nCONTENT MARKETING SPECIALIST Consulting Group June 2021 - Present\nResponsible for creating articles, posts, and campaign assets. Supports social media strategy execution, monitors basic campaign metrics, and collaborates with design and sales teams. Prepares weekly performance summaries and assists in simple data reporting tasks.\nEDUCATION\nB.A. in Marketing 2018 - 2021 University of Warsaw\nFocused on digital marketing, brand communication, and consumer behavior. Completed coursework in advertising strategy and market research.\nSKILLS\nContent Creation,\nSocial Media Marketing, Excel, Communication, Copywriting, Basic Analytics"
+}

@@ -1,0 +1,521 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "MICHAEL TURNER",
+          "bounding_box": [
+            0.6165,
+            0.5075,
+            3.3908,
+            0.5058,
+            3.391,
+            0.7225,
+            0.6166,
+            0.7242
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6309,
+            0.9978,
+            1.8004,
+            0.9991,
+            1.8002,
+            1.182,
+            0.6307,
+            1.1814
+          ]
+        },
+        {
+          "content": "E-mail: Michael.turner@example.com",
+          "bounding_box": [
+            0.6234,
+            1.2448,
+            3.7385,
+            1.2537,
+            3.7378,
+            1.4504,
+            0.6227,
+            1.4408
+          ]
+        },
+        {
+          "content": "Phone number: 555-333-444",
+          "bounding_box": [
+            0.6252,
+            1.5396,
+            2.7232,
+            1.5377,
+            2.7234,
+            1.7182,
+            0.6253,
+            1.7201
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6109,
+            1.9752,
+            1.6604,
+            1.9748,
+            1.6605,
+            2.1608,
+            0.611,
+            2.1612
+          ]
+        },
+        {
+          "content": "Data Analyst with over 6 years of experience in SQL reporting, dashboard",
+          "bounding_box": [
+            0.6133,
+            2.2317,
+            6.657,
+            2.2278,
+            6.6572,
+            2.4417,
+            0.6135,
+            2.444
+          ]
+        },
+        {
+          "content": "development, and supporting ETL processes. Skilled in analyzing business data,",
+          "bounding_box": [
+            0.6187,
+            2.5219,
+            7.1205,
+            2.5216,
+            7.1205,
+            2.7372,
+            0.6187,
+            2.7374
+          ]
+        },
+        {
+          "content": "optimizing reporting workflows, and collaborating with cross-functional teams.",
+          "bounding_box": [
+            0.6184,
+            2.8164,
+            7.0638,
+            2.8094,
+            7.0643,
+            3.0157,
+            0.6189,
+            3.0317
+          ]
+        },
+        {
+          "content": "Familiar with SAP BW environments and comfortable working with large datasets.",
+          "bounding_box": [
+            0.6141,
+            3.0962,
+            7.3424,
+            3.1088,
+            7.342,
+            3.3151,
+            0.6138,
+            3.3025
+          ]
+        },
+        {
+          "content": "Highly analytical, detail-oriented, and motivated to expand expertise in enterprise BI",
+          "bounding_box": [
+            0.6126,
+            3.3901,
+            7.5358,
+            3.394,
+            7.5356,
+            3.6145,
+            0.6125,
+            3.6116
+          ]
+        },
+        {
+          "content": "ecosystems.",
+          "bounding_box": [
+            0.6201,
+            3.72,
+            1.5909,
+            3.7174,
+            1.5914,
+            3.8869,
+            0.6206,
+            3.8895
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6323,
+            4.1678,
+            3.0242,
+            4.1666,
+            3.0243,
+            4.3623,
+            0.6324,
+            4.3635
+          ]
+        },
+        {
+          "content": "DATA ANALYST",
+          "bounding_box": [
+            0.6244,
+            4.4995,
+            2.2395,
+            4.4968,
+            2.2398,
+            4.6795,
+            0.6248,
+            4.6822
+          ]
+        },
+        {
+          "content": "TechCorp",
+          "bounding_box": [
+            0.6314,
+            4.7058,
+            1.4448,
+            4.716,
+            1.4423,
+            4.9157,
+            0.6289,
+            4.9056
+          ]
+        },
+        {
+          "content": "March 2018 - Present",
+          "bounding_box": [
+            0.6238,
+            4.9341,
+            2.4208,
+            4.9355,
+            2.4207,
+            5.1209,
+            0.6236,
+            5.1195
+          ]
+        },
+        {
+          "content": "Develop and maintain SQL-based reports used by business stakeholders across",
+          "bounding_box": [
+            0.6225,
+            5.2691,
+            7.1519,
+            5.2671,
+            7.1519,
+            5.4796,
+            0.6226,
+            5.4816
+          ]
+        },
+        {
+          "content": "operations and finance. Build and optimize Excel dashboards, ensuring data",
+          "bounding_box": [
+            0.6309,
+            5.5606,
+            6.9219,
+            5.5563,
+            6.922,
+            5.7663,
+            0.631,
+            5.7705
+          ]
+        },
+        {
+          "content": "accuracy and usability. Support basic ETL workflows, including data extraction,",
+          "bounding_box": [
+            0.6261,
+            5.8536,
+            7.3003,
+            5.8497,
+            7.3005,
+            6.0615,
+            0.6263,
+            6.0654
+          ]
+        },
+        {
+          "content": "validation, and preparation for downstream use. Familiar with SAP BW",
+          "bounding_box": [
+            0.6256,
+            6.1432,
+            6.5642,
+            6.1354,
+            6.5645,
+            6.3438,
+            0.6259,
+            6.3516
+          ]
+        },
+        {
+          "content": "processes, including cube navigation and data retrieval, but no hands-on ABAP",
+          "bounding_box": [
+            0.6186,
+            6.4425,
+            7.2008,
+            6.4297,
+            7.2012,
+            6.6387,
+            0.619,
+            6.6524
+          ]
+        },
+        {
+          "content": "development.",
+          "bounding_box": [
+            0.6292,
+            6.7344,
+            1.7401,
+            6.7428,
+            1.7386,
+            6.9399,
+            0.6282,
+            6.9315
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.621,
+            7.1729,
+            2.0961,
+            7.1728,
+            2.0961,
+            7.367,
+            0.621,
+            7.3671
+          ]
+        },
+        {
+          "content": "B.S. Information Systems",
+          "bounding_box": [
+            0.627,
+            7.4175,
+            2.762,
+            7.4255,
+            2.7611,
+            7.6208,
+            0.6262,
+            7.6115
+          ]
+        },
+        {
+          "content": "2013 - 2017",
+          "bounding_box": [
+            0.6271,
+            7.6333,
+            1.6303,
+            7.6375,
+            1.6296,
+            7.8202,
+            0.6263,
+            7.8161
+          ]
+        },
+        {
+          "content": "Arizona State University",
+          "bounding_box": [
+            0.6314,
+            7.8458,
+            2.6919,
+            7.8565,
+            2.6907,
+            8.0561,
+            0.6301,
+            8.0434
+          ]
+        },
+        {
+          "content": "Studied information systems management, database fundamentals, business",
+          "bounding_box": [
+            0.6298,
+            8.1719,
+            6.8709,
+            8.1719,
+            6.8709,
+            8.3765,
+            0.6298,
+            8.3766
+          ]
+        },
+        {
+          "content": "analytics, and data architecture. Completed coursework in SQL, systems",
+          "bounding_box": [
+            0.6261,
+            8.452,
+            6.6343,
+            8.4499,
+            6.6344,
+            8.6548,
+            0.6262,
+            8.6566
+          ]
+        },
+        {
+          "content": "analysis, and enterprise software applications with a focus on practical, data-",
+          "bounding_box": [
+            0.6276,
+            8.7411,
+            7.0331,
+            8.7345,
+            7.0333,
+            8.9412,
+            0.6278,
+            8.9477
+          ]
+        },
+        {
+          "content": "driven problem solving.",
+          "bounding_box": [
+            0.6319,
+            9.0137,
+            2.6111,
+            9.0249,
+            2.6099,
+            9.2325,
+            0.6307,
+            9.2212
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6303,
+            9.5938,
+            1.5009,
+            9.5959,
+            1.5005,
+            9.7758,
+            0.6298,
+            9.7739
+          ]
+        },
+        {
+          "content": "SQL,",
+          "bounding_box": [
+            0.6291,
+            9.9076,
+            1.0657,
+            9.9112,
+            1.0641,
+            10.0997,
+            0.6282,
+            10.0961
+          ]
+        },
+        {
+          "content": "Excel,",
+          "bounding_box": [
+            0.625,
+            10.1895,
+            1.1505,
+            10.1916,
+            1.1497,
+            10.3719,
+            0.6243,
+            10.3698
+          ]
+        },
+        {
+          "content": "ETL,",
+          "bounding_box": [
+            0.6232,
+            10.4732,
+            1.0604,
+            10.475,
+            1.0596,
+            10.6562,
+            0.6225,
+            10.6544
+          ]
+        },
+        {
+          "content": "SAP BW,",
+          "bounding_box": [
+            0.6303,
+            10.7505,
+            1.4241,
+            10.7542,
+            1.4233,
+            10.9321,
+            0.6294,
+            10.9284
+          ]
+        },
+        {
+          "content": "Reporting",
+          "bounding_box": [
+            0.6238,
+            11.0356,
+            1.4653,
+            11.0452,
+            1.4631,
+            11.2358,
+            0.6225,
+            11.2262
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "MICHAEL TURNER",
+      "role": null
+    },
+    {
+      "content": "CONTACT E-mail: Michael.turner@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-333-444",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Data Analyst with over 6 years of experience in SQL reporting, dashboard development, and supporting ETL processes. Skilled in analyzing business data, optimizing reporting workflows, and collaborating with cross-functional teams. Familiar with SAP BW environments and comfortable working with large datasets. Highly analytical, detail-oriented, and motivated to expand expertise in enterprise BI ecosystems.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "DATA ANALYST TechCorp March 2018 - Present",
+      "role": null
+    },
+    {
+      "content": "Develop and maintain SQL-based reports used by business stakeholders across operations and finance. Build and optimize Excel dashboards, ensuring data accuracy and usability. Support basic ETL workflows, including data extraction, validation, and preparation for downstream use. Familiar with SAP BW processes, including cube navigation and data retrieval, but no hands-on ABAP development.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "B.S. Information Systems 2013 - 2017 Arizona State University",
+      "role": null
+    },
+    {
+      "content": "Studied information systems management, database fundamentals, business analytics, and data architecture. Completed coursework in SQL, systems analysis, and enterprise software applications with a focus on practical, data- driven problem solving.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "SQL, Excel, ETL, SAP BW, Reporting",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "MICHAEL TURNER\nCONTACT E-mail: Michael.turner@example.com\nPhone number: 555-333-444\nPROFILE\nData Analyst with over 6 years of experience in SQL reporting, dashboard development, and supporting ETL processes. Skilled in analyzing business data, optimizing reporting workflows, and collaborating with cross-functional teams. Familiar with SAP BW environments and comfortable working with large datasets. Highly analytical, detail-oriented, and motivated to expand expertise in enterprise BI ecosystems.\nWORK EXPERIENCE\nDATA ANALYST TechCorp March 2018 - Present\nDevelop and maintain SQL-based reports used by business stakeholders across operations and finance. Build and optimize Excel dashboards, ensuring data accuracy and usability. Support basic ETL workflows, including data extraction, validation, and preparation for downstream use. Familiar with SAP BW processes, including cube navigation and data retrieval, but no hands-on ABAP development.\nEDUCATION\nB.S. Information Systems 2013 - 2017 Arizona State University\nStudied information systems management, database fundamentals, business analytics, and data architecture. Completed coursework in SQL, systems analysis, and enterprise software applications with a focus on practical, data- driven problem solving.\nSKILLS\nSQL, Excel, ETL, SAP BW, Reporting"
+}

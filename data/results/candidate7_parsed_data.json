@@ -1,0 +1,38 @@
+{
+  "personal_info": {
+    "name": "Michael Carter",
+    "email": "michael.carter@example.com",
+    "phone": "553-331-123",
+    "linkedin": "linkedin.com/in/cartermichael"
+  },
+  "experience": [
+    {
+      "position": "Junior Marketing Analyst",
+      "company": "Finance Corp",
+      "start_date": "February 2020",
+      "end_date": "Current",
+      "description": "Support marketing analytics processes by preparing weekly and monthly reports, maintaining dashboards, performing data validation, and identifying simple optimization opportunities. Conduct basic SEO tasks and monitor digital campaign performance to assist senior analysts.",
+      "technologies": [
+        "Excel",
+        "Google Analytics",
+        "SEO"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S.",
+      "field_of_study": "Business",
+      "institution": "University of Colorado Boulder",
+      "graduation_year": "2019",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Excel",
+    "Google Analytics",
+    "Reporting",
+    "Data Analysis",
+    "SEO"
+  ]
+}

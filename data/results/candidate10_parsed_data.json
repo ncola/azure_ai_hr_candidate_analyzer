@@ -1,0 +1,36 @@
+{
+  "personal_info": {
+    "name": "Thomas Duncan",
+    "email": "t.duncan@example.com",
+    "phone": "555-777-888",
+    "linkedin": null
+  },
+  "experience": [
+    {
+      "position": "Data Engineer",
+      "company": "AnalyticsPro",
+      "start_date": "February 2021",
+      "end_date": "Current",
+      "description": "Develop and maintain ETL pipelines used across analytics and reporting teams. Implement automated data workflows using Python and SQL. Responsible for extracting, transforming, and loading data from various sources into centralized repositories. Collaborate with data analysts and business stakeholders to ensure data quality and consistency.",
+      "technologies": [
+        "Python",
+        "SQL",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S.",
+      "field_of_study": "Computer Science",
+      "institution": "University of Colorado Boulder",
+      "graduation_year": "2020",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Python",
+    "ETL"
+  ]
+}

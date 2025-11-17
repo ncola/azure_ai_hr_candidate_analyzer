@@ -1,0 +1,503 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "CATHERINE LEE",
+          "bounding_box": [
+            0.6279,
+            0.5076,
+            3.0875,
+            0.5067,
+            3.0876,
+            0.7211,
+            0.628,
+            0.722
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6294,
+            0.8671,
+            1.7993,
+            0.8665,
+            1.7994,
+            1.0511,
+            0.6295,
+            1.0517
+          ]
+        },
+        {
+          "content": "E-mail: catherine.lee@example.com",
+          "bounding_box": [
+            0.6283,
+            1.1135,
+            3.5811,
+            1.1208,
+            3.5805,
+            1.3157,
+            0.6282,
+            1.307
+          ]
+        },
+        {
+          "content": "Phone number: 555-222-333",
+          "bounding_box": [
+            0.6264,
+            1.4099,
+            2.7147,
+            1.4072,
+            2.7149,
+            1.5867,
+            0.6266,
+            1.5893
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/catherinelee",
+          "bounding_box": [
+            0.6237,
+            1.6696,
+            3.4685,
+            1.6721,
+            3.4683,
+            1.8535,
+            0.6235,
+            1.851
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6226,
+            2.0548,
+            1.6704,
+            2.0546,
+            1.6705,
+            2.2404,
+            0.6227,
+            2.2406
+          ]
+        },
+        {
+          "content": "Aspiring data scientist with a strong foundation in machine learning and NLP.",
+          "bounding_box": [
+            0.6301,
+            2.3845,
+            6.9681,
+            2.374,
+            6.9685,
+            2.585,
+            0.6304,
+            2.5924
+          ]
+        },
+        {
+          "content": "Experienced in building ML prototypes, analyzing datasets, and performing",
+          "bounding_box": [
+            0.6244,
+            2.6671,
+            6.7776,
+            2.6751,
+            6.7773,
+            2.8892,
+            0.6241,
+            2.8812
+          ]
+        },
+        {
+          "content": "exploratory data analysis to support research projects.",
+          "bounding_box": [
+            0.6291,
+            2.969,
+            5.0154,
+            2.9671,
+            5.0155,
+            3.1749,
+            0.6292,
+            3.1768
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6327,
+            3.5242,
+            3.0236,
+            3.5227,
+            3.0237,
+            3.7153,
+            0.6328,
+            3.7168
+          ]
+        },
+        {
+          "content": "MACHINE LEARNING INTERN",
+          "bounding_box": [
+            0.6247,
+            3.8451,
+            3.5688,
+            3.8457,
+            3.5688,
+            4.032,
+            0.6247,
+            4.0313
+          ]
+        },
+        {
+          "content": "AI Research Labs",
+          "bounding_box": [
+            0.6307,
+            4.0631,
+            2.1038,
+            4.0649,
+            2.1036,
+            4.2473,
+            0.6305,
+            4.2455
+          ]
+        },
+        {
+          "content": "May 2022 - June 2023",
+          "bounding_box": [
+            0.6237,
+            4.286,
+            2.4706,
+            4.2769,
+            2.4716,
+            4.4725,
+            0.6247,
+            4.4824
+          ]
+        },
+        {
+          "content": "Developed machine learning prototypes and proof-of-concept models. Performed",
+          "bounding_box": [
+            0.6258,
+            4.5591,
+            7.3393,
+            4.5538,
+            7.3394,
+            4.7723,
+            0.6259,
+            4.7776
+          ]
+        },
+        {
+          "content": "extensive exploratory data analysis and data preprocessing. Supported NLP",
+          "bounding_box": [
+            0.6307,
+            4.8579,
+            6.8743,
+            4.8489,
+            6.8746,
+            5.0599,
+            0.631,
+            5.0649
+          ]
+        },
+        {
+          "content": "experiments for internal research projects, including text classification and",
+          "bounding_box": [
+            0.6286,
+            5.1489,
+            6.8668,
+            5.1392,
+            6.8673,
+            5.3473,
+            0.629,
+            5.3598
+          ]
+        },
+        {
+          "content": "sentiment analysis. Created visualizations and reports to summarize research",
+          "bounding_box": [
+            0.6287,
+            5.4423,
+            7.0008,
+            5.4382,
+            7.001,
+            5.6431,
+            0.6288,
+            5.6472
+          ]
+        },
+        {
+          "content": "findings.",
+          "bounding_box": [
+            0.6284,
+            5.7331,
+            1.3668,
+            5.7374,
+            1.3656,
+            5.9429,
+            0.6272,
+            5.9386
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6223,
+            6.2363,
+            2.0976,
+            6.2367,
+            2.0976,
+            6.4315,
+            0.6223,
+            6.4311
+          ]
+        },
+        {
+          "content": "B.S .. in Computer Science",
+          "bounding_box": [
+            0.6269,
+            6.4775,
+            2.8258,
+            6.4836,
+            2.8253,
+            6.6866,
+            0.6263,
+            6.6815
+          ]
+        },
+        {
+          "content": "2019 - 2023",
+          "bounding_box": [
+            0.6258,
+            6.6964,
+            1.6224,
+            6.6997,
+            1.6218,
+            6.8836,
+            0.6252,
+            6.8803
+          ]
+        },
+        {
+          "content": "Stanford University",
+          "bounding_box": [
+            0.6297,
+            6.9093,
+            2.2728,
+            6.92,
+            2.2713,
+            7.1228,
+            0.6282,
+            7.1111
+          ]
+        },
+        {
+          "content": "Focused on algorithms, machine learning, and data analysis. Completed",
+          "bounding_box": [
+            0.6246,
+            7.2189,
+            6.5803,
+            7.2185,
+            6.5804,
+            7.435,
+            0.6246,
+            7.4354
+          ]
+        },
+        {
+          "content": "coursework in AI, NLP, and statistical modeling.",
+          "bounding_box": [
+            0.6326,
+            7.5032,
+            4.698,
+            7.5096,
+            4.6976,
+            7.708,
+            0.6322,
+            7.7012
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6302,
+            8.1016,
+            1.502,
+            8.1047,
+            1.5017,
+            8.2855,
+            0.6296,
+            8.2833
+          ]
+        },
+        {
+          "content": "Python,",
+          "bounding_box": [
+            0.625,
+            8.4183,
+            1.267,
+            8.4218,
+            1.2659,
+            8.6143,
+            0.6239,
+            8.6108
+          ]
+        },
+        {
+          "content": "Machine Learning,",
+          "bounding_box": [
+            0.6237,
+            8.6909,
+            2.1908,
+            8.7059,
+            2.1881,
+            8.8996,
+            0.6225,
+            8.8785
+          ]
+        },
+        {
+          "content": "Statistics,",
+          "bounding_box": [
+            0.6315,
+            8.9773,
+            1.4501,
+            8.9853,
+            1.4483,
+            9.1648,
+            0.6297,
+            9.1568
+          ]
+        },
+        {
+          "content": "Pandas,",
+          "bounding_box": [
+            0.6261,
+            9.2645,
+            1.2668,
+            9.2676,
+            1.2659,
+            9.4467,
+            0.6253,
+            9.4436
+          ]
+        },
+        {
+          "content": "NumPy,",
+          "bounding_box": [
+            0.6205,
+            9.5404,
+            1.2964,
+            9.5471,
+            1.2952,
+            9.7469,
+            0.6185,
+            9.7402
+          ]
+        },
+        {
+          "content": "NLP,",
+          "bounding_box": [
+            0.6202,
+            9.8212,
+            1.0627,
+            9.8231,
+            1.0619,
+            10.0095,
+            0.6194,
+            10.0076
+          ]
+        },
+        {
+          "content": "Deep Learning,",
+          "bounding_box": [
+            0.6241,
+            10.1001,
+            1.9095,
+            10.1071,
+            1.9084,
+            10.3095,
+            0.623,
+            10.3025
+          ]
+        },
+        {
+          "content": "EDA",
+          "bounding_box": [
+            0.6247,
+            10.3916,
+            1.0422,
+            10.3921,
+            1.0421,
+            10.555,
+            0.6245,
+            10.5545
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "CATHERINE LEE",
+      "role": null
+    },
+    {
+      "content": "CONTACT",
+      "role": null
+    },
+    {
+      "content": "E-mail: catherine.lee@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-222-333",
+      "role": null
+    },
+    {
+      "content": "LinkedIn: linkedin.com/in/catherinelee",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Aspiring data scientist with a strong foundation in machine learning and NLP. Experienced in building ML prototypes, analyzing datasets, and performing exploratory data analysis to support research projects.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "MACHINE LEARNING INTERN AI Research Labs May 2022 - June 2023",
+      "role": null
+    },
+    {
+      "content": "Developed machine learning prototypes and proof-of-concept models. Performed extensive exploratory data analysis and data preprocessing. Supported NLP experiments for internal research projects, including text classification and sentiment analysis. Created visualizations and reports to summarize research findings.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": null
+    },
+    {
+      "content": "B.S .. in Computer Science 2019 - 2023 Stanford University",
+      "role": null
+    },
+    {
+      "content": "Focused on algorithms, machine learning, and data analysis. Completed coursework in AI, NLP, and statistical modeling.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Python, Machine Learning, Statistics, Pandas, NumPy, NLP, Deep Learning, EDA",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "CATHERINE LEE\nCONTACT\nE-mail: catherine.lee@example.com\nPhone number: 555-222-333\nLinkedIn: linkedin.com/in/catherinelee\nPROFILE\nAspiring data scientist with a strong foundation in machine learning and NLP. Experienced in building ML prototypes, analyzing datasets, and performing exploratory data analysis to support research projects.\nWORK EXPERIENCE\nMACHINE LEARNING INTERN AI Research Labs May 2022 - June 2023\nDeveloped machine learning prototypes and proof-of-concept models. Performed extensive exploratory data analysis and data preprocessing. Supported NLP experiments for internal research projects, including text classification and sentiment analysis. Created visualizations and reports to summarize research findings.\nEDUCATION\nB.S .. in Computer Science 2019 - 2023 Stanford University\nFocused on algorithms, machine learning, and data analysis. Completed coursework in AI, NLP, and statistical modeling.\nSKILLS\nPython, Machine Learning, Statistics, Pandas, NumPy, NLP, Deep Learning, EDA"
+}

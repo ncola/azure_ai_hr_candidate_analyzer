@@ -1,0 +1,39 @@
+{
+  "personal_info": {
+    "name": "Daniel Perez",
+    "email": "daniel.perez@example.com",
+    "phone": "555-444-777",
+    "linkedin": "linkedin.com/in/danielperez"
+  },
+  "experience": [
+    {
+      "position": "Business Data Technician",
+      "company": "Retail Insights",
+      "start_date": "March 2021",
+      "end_date": "Present",
+      "description": "Performed data cleaning, validation, and transformation of large datasets. Created weekly and monthly dashboards to support business reporting teams and management decisions. Built simple forecasting scripts in Python to anticipate sales trends and optimize inventory. Collaborated with cross-functional teams to improve data quality and streamline reporting processes.",
+      "technologies": [
+        "Python",
+        "Power BI"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A.",
+      "field_of_study": "Economics",
+      "institution": "San Diego State University",
+      "graduation_year": "2021",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Python",
+    "Data Visualization",
+    "Power BI",
+    "Excel",
+    "Basic Statistics",
+    "Dashboards",
+    "Reporting"
+  ]
+}

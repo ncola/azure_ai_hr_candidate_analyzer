@@ -1,0 +1,499 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "DANIEL PEREZ",
+          "bounding_box": [
+            0.6203,
+            0.5037,
+            2.8677,
+            0.5049,
+            2.8676,
+            0.7222,
+            0.6202,
+            0.721
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6303,
+            0.8679,
+            1.7981,
+            0.8672,
+            1.7982,
+            1.0512,
+            0.6304,
+            1.0519
+          ]
+        },
+        {
+          "content": "E-mail: daniel.perez@example.com",
+          "bounding_box": [
+            0.6287,
+            1.1171,
+            3.5304,
+            1.1215,
+            3.5301,
+            1.3181,
+            0.6284,
+            1.3137
+          ]
+        },
+        {
+          "content": "Phone number: 555-444-777",
+          "bounding_box": [
+            0.6255,
+            1.408,
+            2.7207,
+            1.4047,
+            2.721,
+            1.5871,
+            0.6258,
+            1.5907
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/danielperez",
+          "bounding_box": [
+            0.624,
+            1.6617,
+            3.4326,
+            1.6716,
+            3.4316,
+            1.8729,
+            0.623,
+            1.859
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6217,
+            2.2207,
+            1.6719,
+            2.2208,
+            1.6719,
+            2.4055,
+            0.6216,
+            2.4053
+          ]
+        },
+        {
+          "content": "Detail-oriented business data technician with experience in data cleaning,",
+          "bounding_box": [
+            0.6248,
+            2.541,
+            6.6075,
+            2.551,
+            6.6072,
+            2.7563,
+            0.6244,
+            2.746
+          ]
+        },
+        {
+          "content": "visualization, and reporting. Strong analytical skills with proficiency in Python",
+          "bounding_box": [
+            0.6273,
+            2.8354,
+            7.0726,
+            2.837,
+            7.0725,
+            3.0466,
+            0.6272,
+            3.0451
+          ]
+        },
+        {
+          "content": "and Power BI, able to turn raw data into actionable business insights.",
+          "bounding_box": [
+            0.6293,
+            3.1235,
+            6.2476,
+            3.1301,
+            6.2473,
+            3.3347,
+            0.629,
+            3.3278
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6331,
+            3.689,
+            3.0221,
+            3.6889,
+            3.0221,
+            3.883,
+            0.6331,
+            3.883
+          ]
+        },
+        {
+          "content": "BUSINESS DATA TECHNICIAN",
+          "bounding_box": [
+            0.6273,
+            4.0116,
+            3.615,
+            4.0108,
+            3.615,
+            4.1985,
+            0.6274,
+            4.1994
+          ]
+        },
+        {
+          "content": "Retail Insights",
+          "bounding_box": [
+            0.625,
+            4.2255,
+            1.8478,
+            4.2284,
+            1.8472,
+            4.4332,
+            0.6244,
+            4.4296
+          ]
+        },
+        {
+          "content": "March 2021 - Present",
+          "bounding_box": [
+            0.6248,
+            4.4512,
+            2.4202,
+            4.4519,
+            2.4201,
+            4.6341,
+            0.6247,
+            4.6334
+          ]
+        },
+        {
+          "content": "Performed data cleaning, validation, and transformation of large datasets.",
+          "bounding_box": [
+            0.6243,
+            4.8433,
+            6.7266,
+            4.8462,
+            6.7265,
+            5.0562,
+            0.6242,
+            5.0533
+          ]
+        },
+        {
+          "content": "Created weekly and monthly dashboards to support business reporting",
+          "bounding_box": [
+            0.6309,
+            5.1345,
+            6.4418,
+            5.1437,
+            6.4414,
+            5.3545,
+            0.6305,
+            5.3453
+          ]
+        },
+        {
+          "content": "teams and management decisions. Built simple forecasting scripts in",
+          "bounding_box": [
+            0.6238,
+            5.4247,
+            6.3038,
+            5.4276,
+            6.3037,
+            5.6442,
+            0.6236,
+            5.6393
+          ]
+        },
+        {
+          "content": "Python to anticipate sales trends and optimize inventory. Collaborated with",
+          "bounding_box": [
+            0.6264,
+            5.7252,
+            6.8881,
+            5.7198,
+            6.8883,
+            5.9366,
+            0.6266,
+            5.942
+          ]
+        },
+        {
+          "content": "cross-functional teams to improve data quality and streamline reporting",
+          "bounding_box": [
+            0.632,
+            6.0185,
+            6.5756,
+            6.0236,
+            6.5752,
+            6.2333,
+            0.6316,
+            6.2212
+          ]
+        },
+        {
+          "content": "processes.",
+          "bounding_box": [
+            0.6219,
+            6.3519,
+            1.4783,
+            6.344,
+            1.4792,
+            6.5014,
+            0.6238,
+            6.512
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6237,
+            6.832,
+            2.0978,
+            6.832,
+            2.0978,
+            7.0226,
+            0.6237,
+            7.0226
+          ]
+        },
+        {
+          "content": "B.A. in Economics",
+          "bounding_box": [
+            0.6255,
+            7.0826,
+            2.198,
+            7.0849,
+            2.1978,
+            7.2677,
+            0.6252,
+            7.2654
+          ]
+        },
+        {
+          "content": "2017 - 2021",
+          "bounding_box": [
+            0.626,
+            7.2974,
+            1.6139,
+            7.2999,
+            1.6134,
+            7.4789,
+            0.6256,
+            7.4764
+          ]
+        },
+        {
+          "content": "San Diego State University",
+          "bounding_box": [
+            0.6319,
+            7.5073,
+            2.8906,
+            7.5129,
+            2.8901,
+            7.7176,
+            0.6314,
+            7.712
+          ]
+        },
+        {
+          "content": "Focused on quantitative economics and statistical analysis. Completed",
+          "bounding_box": [
+            0.6249,
+            7.8151,
+            6.4767,
+            7.8152,
+            6.4767,
+            8.0232,
+            0.6249,
+            8.0231
+          ]
+        },
+        {
+          "content": "coursework in econometrics, financial modeling, and business analytics.",
+          "bounding_box": [
+            0.6311,
+            8.097,
+            6.6204,
+            8.1052,
+            6.6199,
+            8.314,
+            0.6306,
+            8.3022
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6308,
+            8.6579,
+            1.5007,
+            8.6598,
+            1.5003,
+            8.8386,
+            0.6304,
+            8.8367
+          ]
+        },
+        {
+          "content": "Python,",
+          "bounding_box": [
+            0.6262,
+            8.9732,
+            1.2635,
+            8.9782,
+            1.262,
+            9.1679,
+            0.6247,
+            9.1629
+          ]
+        },
+        {
+          "content": "Data Visualization,",
+          "bounding_box": [
+            0.6268,
+            9.2469,
+            2.2343,
+            9.2618,
+            2.2326,
+            9.4434,
+            0.6251,
+            9.4285
+          ]
+        },
+        {
+          "content": "Power BI,",
+          "bounding_box": [
+            0.627,
+            9.536,
+            1.4623,
+            9.5381,
+            1.4616,
+            9.7225,
+            0.6263,
+            9.7194
+          ]
+        },
+        {
+          "content": "Excel,",
+          "bounding_box": [
+            0.6265,
+            9.8186,
+            1.1524,
+            9.8204,
+            1.1518,
+            9.9989,
+            0.6258,
+            9.997
+          ]
+        },
+        {
+          "content": "Basic Statistics,",
+          "bounding_box": [
+            0.6286,
+            10.0901,
+            1.9668,
+            10.1026,
+            1.9651,
+            10.2869,
+            0.6282,
+            10.2744
+          ]
+        },
+        {
+          "content": "Dashboards,",
+          "bounding_box": [
+            0.6272,
+            10.3733,
+            1.6512,
+            10.3772,
+            1.6505,
+            10.5602,
+            0.6265,
+            10.5563
+          ]
+        },
+        {
+          "content": "Reporting",
+          "bounding_box": [
+            0.6263,
+            10.6645,
+            1.4641,
+            10.6742,
+            1.4619,
+            10.8656,
+            0.6241,
+            10.856
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "DANIEL PEREZ",
+      "role": null
+    },
+    {
+      "content": "CONTACT E-mail: daniel.perez@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-444-777",
+      "role": null
+    },
+    {
+      "content": "LinkedIn: linkedin.com/in/danielperez",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": null
+    },
+    {
+      "content": "Detail-oriented business data technician with experience in data cleaning, visualization, and reporting. Strong analytical skills with proficiency in Python and Power BI, able to turn raw data into actionable business insights.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "BUSINESS DATA TECHNICIAN Retail Insights March 2021 - Present",
+      "role": null
+    },
+    {
+      "content": "Performed data cleaning, validation, and transformation of large datasets. Created weekly and monthly dashboards to support business reporting teams and management decisions. Built simple forecasting scripts in Python to anticipate sales trends and optimize inventory. Collaborated with cross-functional teams to improve data quality and streamline reporting processes.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "B.A. in Economics 2017 - 2021 San Diego State University",
+      "role": null
+    },
+    {
+      "content": "Focused on quantitative economics and statistical analysis. Completed coursework in econometrics, financial modeling, and business analytics.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Python, Data Visualization, Power BI, Excel, Basic Statistics, Dashboards, Reporting",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "DANIEL PEREZ\nCONTACT E-mail: daniel.perez@example.com\nPhone number: 555-444-777\nLinkedIn: linkedin.com/in/danielperez\nPROFILE\nDetail-oriented business data technician with experience in data cleaning, visualization, and reporting. Strong analytical skills with proficiency in Python and Power BI, able to turn raw data into actionable business insights.\nWORK EXPERIENCE\nBUSINESS DATA TECHNICIAN Retail Insights March 2021 - Present\nPerformed data cleaning, validation, and transformation of large datasets. Created weekly and monthly dashboards to support business reporting teams and management decisions. Built simple forecasting scripts in Python to anticipate sales trends and optimize inventory. Collaborated with cross-functional teams to improve data quality and streamline reporting processes.\nEDUCATION\nB.A. in Economics 2017 - 2021 San Diego State University\nFocused on quantitative economics and statistical analysis. Completed coursework in econometrics, financial modeling, and business analytics.\nSKILLS\nPython, Data Visualization, Power BI, Excel, Basic Statistics, Dashboards, Reporting"
+}

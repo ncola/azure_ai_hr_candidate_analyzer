@@ -1,0 +1,38 @@
+{
+  "personal_info": {
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "phone": "555-555-666",
+    "linkedin": "linkedin.com/in/emilyjohnson"
+  },
+  "experience": [
+    {
+      "position": "BI Developer",
+      "company": "Business Insights",
+      "start_date": "July 2019",
+      "end_date": "Current",
+      "description": "Design and develop dashboards and business reports in Power BI and Excel. Support stakeholders by gathering reporting requirements, preparing data models, and ensuring data accuracy across BI solutions. Collaborate with data engineering teams on data consistency and quality improvements. Limited exposure to SAP BW (primarily data extraction and navigation) with no hands-on ABAP development responsibilities.",
+      "technologies": [
+        "Power BI",
+        "Excel",
+        "SQL",
+        "SAP BW"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A.",
+      "field_of_study": "Business Administration",
+      "institution": "University of Illinois Urbana-Champaign",
+      "graduation_year": "2018",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Power BI",
+    "Excel",
+    "SQL",
+    "Reporting"
+  ]
+}

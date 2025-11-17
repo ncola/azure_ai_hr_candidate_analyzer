@@ -1,0 +1,538 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "ANNA KOWALSKA",
+          "bounding_box": [
+            0.6289,
+            0.5046,
+            3.352,
+            0.5056,
+            3.3519,
+            0.724,
+            0.6288,
+            0.723
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6285,
+            0.8339,
+            1.8016,
+            0.8328,
+            1.8017,
+            1.0137,
+            0.6287,
+            1.0148
+          ]
+        },
+        {
+          "content": "E-mail: anna.kowalska@example.com",
+          "bounding_box": [
+            0.6262,
+            1.0737,
+            3.7307,
+            1.0842,
+            3.73,
+            1.2859,
+            0.6255,
+            1.2754
+          ]
+        },
+        {
+          "content": "Phone number: 555-111-222",
+          "bounding_box": [
+            0.6262,
+            1.3792,
+            2.7192,
+            1.3766,
+            2.7194,
+            1.5585,
+            0.6265,
+            1.5611
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/annakowalska",
+          "bounding_box": [
+            0.6239,
+            1.6345,
+            3.6184,
+            1.635,
+            3.6184,
+            1.8215,
+            0.6239,
+            1.8211
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6122,
+            2.033,
+            1.661,
+            2.0322,
+            1.6611,
+            2.2167,
+            0.6123,
+            2.2175
+          ]
+        },
+        {
+          "content": "SAP BW Consultant with over four years of experience in designing, developing, and",
+          "bounding_box": [
+            0.6222,
+            2.2848,
+            7.5723,
+            2.2861,
+            7.5722,
+            2.5028,
+            0.6222,
+            2.5015
+          ]
+        },
+        {
+          "content": "optimizing enterprise data warehousing solutions. Strong background in SAP BW",
+          "bounding_box": [
+            0.6188,
+            2.586,
+            7.2381,
+            2.5697,
+            7.2386,
+            2.7847,
+            0.6193,
+            2.801
+          ]
+        },
+        {
+          "content": "modeling, ETL processes, ABAP enhancements, and performance optimization.",
+          "bounding_box": [
+            0.612,
+            2.8727,
+            7.066,
+            2.8704,
+            7.0661,
+            3.0788,
+            0.612,
+            3.081
+          ]
+        },
+        {
+          "content": "Skilled in translating business needs into scalable BI solutions and ensuring high data",
+          "bounding_box": [
+            0.6218,
+            3.1577,
+            7.5917,
+            3.1598,
+            7.5915,
+            3.3747,
+            0.6216,
+            3.3699
+          ]
+        },
+        {
+          "content": "quality and reliability.",
+          "bounding_box": [
+            0.62,
+            3.4615,
+            2.4399,
+            3.4547,
+            2.4408,
+            3.6649,
+            0.6209,
+            3.6731
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.6216,
+            3.894,
+            3.0115,
+            3.8942,
+            3.0115,
+            4.0899,
+            0.6216,
+            4.0897
+          ]
+        },
+        {
+          "content": "SAP BW CONSULTANT",
+          "bounding_box": [
+            0.6226,
+            4.235,
+            2.8449,
+            4.2331,
+            2.8451,
+            4.4198,
+            0.6228,
+            4.4217
+          ]
+        },
+        {
+          "content": "DataTech Solutions",
+          "bounding_box": [
+            0.6161,
+            4.445,
+            2.2521,
+            4.4483,
+            2.2518,
+            4.6318,
+            0.6157,
+            4.6285
+          ]
+        },
+        {
+          "content": "January 2020 - Present",
+          "bounding_box": [
+            0.6173,
+            4.676,
+            2.5222,
+            4.6709,
+            2.5229,
+            4.8663,
+            0.6179,
+            4.8708
+          ]
+        },
+        {
+          "content": "Design, develop, and maintain SAP BW data models, including InfoObjects,",
+          "bounding_box": [
+            0.6246,
+            5.0354,
+            6.9507,
+            5.0353,
+            6.9507,
+            5.2579,
+            0.6246,
+            5.2581
+          ]
+        },
+        {
+          "content": "DSOs, and MultiProviders. Implement ETL workflows using SAP Data Services",
+          "bounding_box": [
+            0.6259,
+            5.3303,
+            7.2698,
+            5.3278,
+            7.2699,
+            5.5366,
+            0.626,
+            5.5389
+          ]
+        },
+        {
+          "content": "and custom ABAP routines. Optimize query execution and troubleshoot data",
+          "bounding_box": [
+            0.6254,
+            5.6254,
+            6.9632,
+            5.6225,
+            6.9633,
+            5.828,
+            0.6255,
+            5.8301
+          ]
+        },
+        {
+          "content": "inconsistencies, Responsible for BW architecture improvements, documentation,",
+          "bounding_box": [
+            0.6267,
+            5.91,
+            7.3017,
+            5.9201,
+            7.3012,
+            6.127,
+            0.6263,
+            6.118
+          ]
+        },
+        {
+          "content": "and ensuring end-to-end data quality.",
+          "bounding_box": [
+            0.6292,
+            6.2032,
+            3.7238,
+            6.2094,
+            3.7233,
+            6.4209,
+            0.6288,
+            6.4147
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6228,
+            6.6463,
+            2.0962,
+            6.6456,
+            2.0963,
+            6.842,
+            0.6229,
+            6.8426
+          ]
+        },
+        {
+          "content": "M.S. Computer Science",
+          "bounding_box": [
+            0.6245,
+            6.8922,
+            2.5922,
+            6.8986,
+            2.5916,
+            7.0964,
+            0.6238,
+            7.0898
+          ]
+        },
+        {
+          "content": "2017-2018",
+          "bounding_box": [
+            0.6256,
+            7.109,
+            1.5174,
+            7.1122,
+            1.5168,
+            7.2935,
+            0.6249,
+            7.2903
+          ]
+        },
+        {
+          "content": "Warsaw University of Technology",
+          "bounding_box": [
+            0.6357,
+            7.3204,
+            3.4738,
+            7.3306,
+            3.4729,
+            7.5395,
+            0.6349,
+            7.5276
+          ]
+        },
+        {
+          "content": "Focused on software engineering, database systems, distributed systems, and",
+          "bounding_box": [
+            0.6262,
+            7.6464,
+            7.0042,
+            7.6501,
+            7.004,
+            7.8629,
+            0.626,
+            7.8605
+          ]
+        },
+        {
+          "content": "data processing. Completed academic projects involving enterprise data flows",
+          "bounding_box": [
+            0.6324,
+            7.9249,
+            7.0902,
+            7.9251,
+            7.0902,
+            8.1494,
+            0.6324,
+            8.1492
+          ]
+        },
+        {
+          "content": "and business intelligence fundamentals.",
+          "bounding_box": [
+            0.6293,
+            8.2087,
+            3.9215,
+            8.2082,
+            3.9216,
+            8.4135,
+            0.6294,
+            8.414
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6315,
+            8.736,
+            1.5019,
+            8.7381,
+            1.5015,
+            8.9193,
+            0.6311,
+            8.9179
+          ]
+        },
+        {
+          "content": "SAP BW,",
+          "bounding_box": [
+            0.63,
+            9.0471,
+            1.4274,
+            9.0507,
+            1.4265,
+            9.2376,
+            0.6291,
+            9.2339
+          ]
+        },
+        {
+          "content": "ABAP,",
+          "bounding_box": [
+            0.63,
+            9.3304,
+            1.2116,
+            9.3315,
+            1.2107,
+            9.5171,
+            0.6291,
+            9.5143
+          ]
+        },
+        {
+          "content": "ETL,",
+          "bounding_box": [
+            0.6275,
+            9.6178,
+            1.0524,
+            9.6196,
+            1.0517,
+            9.7982,
+            0.6268,
+            9.7964
+          ]
+        },
+        {
+          "content": "SQL,",
+          "bounding_box": [
+            0.6307,
+            9.8957,
+            1.0664,
+            9.8986,
+            1.065,
+            10.0878,
+            0.6294,
+            10.0848
+          ]
+        },
+        {
+          "content": "Data Warehousing,",
+          "bounding_box": [
+            0.6259,
+            10.1698,
+            2.2148,
+            10.1862,
+            2.2118,
+            10.3782,
+            0.6229,
+            10.3535
+          ]
+        },
+        {
+          "content": "Reporting,",
+          "bounding_box": [
+            0.6252,
+            10.4607,
+            1.5112,
+            10.4677,
+            1.5097,
+            10.6609,
+            0.6236,
+            10.6553
+          ]
+        },
+        {
+          "content": "Business Intelligence,",
+          "bounding_box": [
+            0.627,
+            10.7408,
+            2.4596,
+            10.7529,
+            2.4578,
+            10.9403,
+            0.6252,
+            10.9229
+          ]
+        },
+        {
+          "content": "Excel",
+          "bounding_box": [
+            0.6281,
+            11.0229,
+            1.1099,
+            11.0236,
+            1.1097,
+            11.1888,
+            0.6279,
+            11.1881
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "ANNA KOWALSKA",
+      "role": null
+    },
+    {
+      "content": "CONTACT",
+      "role": null
+    },
+    {
+      "content": "E-mail: anna.kowalska@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-111-222",
+      "role": null
+    },
+    {
+      "content": "LinkedIn: linkedin.com/in/annakowalska",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": null
+    },
+    {
+      "content": "SAP BW Consultant with over four years of experience in designing, developing, and optimizing enterprise data warehousing solutions. Strong background in SAP BW modeling, ETL processes, ABAP enhancements, and performance optimization. Skilled in translating business needs into scalable BI solutions and ensuring high data quality and reliability.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "SAP BW CONSULTANT DataTech Solutions January 2020 - Present",
+      "role": null
+    },
+    {
+      "content": "Design, develop, and maintain SAP BW data models, including InfoObjects, DSOs, and MultiProviders. Implement ETL workflows using SAP Data Services and custom ABAP routines. Optimize query execution and troubleshoot data inconsistencies, Responsible for BW architecture improvements, documentation, and ensuring end-to-end data quality.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": null
+    },
+    {
+      "content": "M.S. Computer Science 2017-2018 Warsaw University of Technology",
+      "role": null
+    },
+    {
+      "content": "Focused on software engineering, database systems, distributed systems, and data processing. Completed academic projects involving enterprise data flows and business intelligence fundamentals.",
+      "role": null
+    },
+    {
+      "content": "SKILLS SAP BW, ABAP, ETL, SQL, Data Warehousing, Reporting, Business Intelligence, Excel",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "ANNA KOWALSKA\nCONTACT\nE-mail: anna.kowalska@example.com\nPhone number: 555-111-222\nLinkedIn: linkedin.com/in/annakowalska\nPROFILE\nSAP BW Consultant with over four years of experience in designing, developing, and optimizing enterprise data warehousing solutions. Strong background in SAP BW modeling, ETL processes, ABAP enhancements, and performance optimization. Skilled in translating business needs into scalable BI solutions and ensuring high data quality and reliability.\nWORK EXPERIENCE\nSAP BW CONSULTANT DataTech Solutions January 2020 - Present\nDesign, develop, and maintain SAP BW data models, including InfoObjects, DSOs, and MultiProviders. Implement ETL workflows using SAP Data Services and custom ABAP routines. Optimize query execution and troubleshoot data inconsistencies, Responsible for BW architecture improvements, documentation, and ensuring end-to-end data quality.\nEDUCATION\nM.S. Computer Science 2017-2018 Warsaw University of Technology\nFocused on software engineering, database systems, distributed systems, and data processing. Completed academic projects involving enterprise data flows and business intelligence fundamentals.\nSKILLS SAP BW, ABAP, ETL, SQL, Data Warehousing, Reporting, Business Intelligence, Excel"
+}

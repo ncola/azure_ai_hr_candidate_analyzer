@@ -1,0 +1,529 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "content": "BRIAN SMITH",
+          "bounding_box": [
+            0.6208,
+            0.5053,
+            2.6892,
+            0.5071,
+            2.689,
+            0.7222,
+            0.6206,
+            0.7204
+          ]
+        },
+        {
+          "content": "CONTACT",
+          "bounding_box": [
+            0.6307,
+            0.8671,
+            1.7991,
+            0.8661,
+            1.7992,
+            1.0506,
+            0.6308,
+            1.0515
+          ]
+        },
+        {
+          "content": "E-mail: brian.smith@example.com",
+          "bounding_box": [
+            0.6293,
+            1.1135,
+            3.4628,
+            1.1215,
+            3.4619,
+            1.3191,
+            0.6285,
+            1.3073
+          ]
+        },
+        {
+          "content": "Phone number: 555-987-654",
+          "bounding_box": [
+            0.6262,
+            1.4086,
+            2.7251,
+            1.4047,
+            2.7254,
+            1.5863,
+            0.6266,
+            1.5902
+          ]
+        },
+        {
+          "content": "LinkedIn: linkedin.com/in/briansmit",
+          "bounding_box": [
+            0.6244,
+            1.6696,
+            3.283,
+            1.6733,
+            3.2828,
+            1.8533,
+            0.6241,
+            1.8496
+          ]
+        },
+        {
+          "content": "PROFILE",
+          "bounding_box": [
+            0.6237,
+            2.0552,
+            1.6697,
+            2.0546,
+            1.6698,
+            2.2413,
+            0.6238,
+            2.2419
+          ]
+        },
+        {
+          "content": "Analytical data analyst with experience in predictive modeling and business",
+          "bounding_box": [
+            0.6302,
+            2.2835,
+            6.8049,
+            2.2828,
+            6.8049,
+            2.4941,
+            0.6302,
+            2.4948
+          ]
+        },
+        {
+          "content": "intelligence. Skilled in Python, SQL, and Power BI, translating complex datasets",
+          "bounding_box": [
+            0.6271,
+            2.571,
+            7.1976,
+            2.5722,
+            7.1975,
+            2.7836,
+            0.627,
+            2.7824
+          ]
+        },
+        {
+          "content": "into actionable insights for business strategies.",
+          "bounding_box": [
+            0.6257,
+            2.8613,
+            4.4322,
+            2.8653,
+            4.4319,
+            3.0739,
+            0.6255,
+            3.0699
+          ]
+        },
+        {
+          "content": "WORK EXPERIENCE",
+          "bounding_box": [
+            0.633,
+            3.3704,
+            3.0228,
+            3.3689,
+            3.0229,
+            3.5612,
+            0.6332,
+            3.5627
+          ]
+        },
+        {
+          "content": "DATA ANALYST",
+          "bounding_box": [
+            0.6269,
+            3.6777,
+            2.2391,
+            3.676,
+            2.2393,
+            3.8569,
+            0.6271,
+            3.8586
+          ]
+        },
+        {
+          "content": "Insight Corp",
+          "bounding_box": [
+            0.6252,
+            3.8856,
+            1.6728,
+            3.8926,
+            1.6715,
+            4.0966,
+            0.6239,
+            4.0896
+          ]
+        },
+        {
+          "content": "March 2021 - Present",
+          "bounding_box": [
+            0.6261,
+            4.1146,
+            2.4195,
+            4.1152,
+            2.4195,
+            4.2966,
+            0.626,
+            4.296
+          ]
+        },
+        {
+          "content": "Analyzed large sales datasets to identify trends and insights. Built predictive",
+          "bounding_box": [
+            0.631,
+            4.3903,
+            7.0696,
+            4.3863,
+            7.0698,
+            4.6001,
+            0.6312,
+            4.6024
+          ]
+        },
+        {
+          "content": "models for customer behavior and campaign performance using Python and",
+          "bounding_box": [
+            0.623,
+            4.6807,
+            6.8719,
+            4.6788,
+            6.872,
+            4.8905,
+            0.6231,
+            4.8924
+          ]
+        },
+        {
+          "content": "machine learning techniques. Created interactive dashboards and visualizations",
+          "bounding_box": [
+            0.6222,
+            4.972,
+            7.2065,
+            4.9684,
+            7.2066,
+            5.1774,
+            0.6223,
+            5.1809
+          ]
+        },
+        {
+          "content": "to support business teams in strategic decision-making. Collaborated with cross-",
+          "bounding_box": [
+            0.6259,
+            5.2709,
+            7.3053,
+            5.2591,
+            7.3057,
+            5.4658,
+            0.6263,
+            5.4793
+          ]
+        },
+        {
+          "content": "functional teams to optimize data collection and reporting processes.",
+          "bounding_box": [
+            0.6288,
+            5.5505,
+            6.3324,
+            5.5643,
+            6.3319,
+            5.7673,
+            0.6284,
+            5.755
+          ]
+        },
+        {
+          "content": "EDUCATION",
+          "bounding_box": [
+            0.6239,
+            6.1173,
+            2.0936,
+            6.1165,
+            2.0937,
+            6.3092,
+            0.624,
+            6.3097
+          ]
+        },
+        {
+          "content": "B.S in Statistics",
+          "bounding_box": [
+            0.6239,
+            6.3639,
+            1.9712,
+            6.3657,
+            1.971,
+            6.5463,
+            0.6236,
+            6.5445
+          ]
+        },
+        {
+          "content": "2015 - 2019",
+          "bounding_box": [
+            0.6275,
+            6.5794,
+            1.6262,
+            6.5815,
+            1.6258,
+            6.7594,
+            0.6271,
+            6.7574
+          ]
+        },
+        {
+          "content": "Ohio State University",
+          "bounding_box": [
+            0.632,
+            6.7894,
+            2.4378,
+            6.8027,
+            2.4362,
+            6.9992,
+            0.6304,
+            6.9842
+          ]
+        },
+        {
+          "content": "Focused on statistical modeling, data analysis, and probability theory.",
+          "bounding_box": [
+            0.6247,
+            7.0984,
+            6.4384,
+            7.1023,
+            6.4382,
+            7.3204,
+            0.6245,
+            7.3174
+          ]
+        },
+        {
+          "content": "Completed coursework in regression analysis, machine learning, and data",
+          "bounding_box": [
+            0.6294,
+            7.3792,
+            6.7217,
+            7.3776,
+            6.7217,
+            7.5943,
+            0.6295,
+            7.596
+          ]
+        },
+        {
+          "content": "visualization.",
+          "bounding_box": [
+            0.6281,
+            7.6668,
+            1.7488,
+            7.6672,
+            1.7488,
+            7.8463,
+            0.628,
+            7.8458
+          ]
+        },
+        {
+          "content": "SKILLS",
+          "bounding_box": [
+            0.6315,
+            8.1768,
+            1.5002,
+            8.1784,
+            1.4999,
+            8.3604,
+            0.6311,
+            8.3588
+          ]
+        },
+        {
+          "content": "Python,",
+          "bounding_box": [
+            0.6249,
+            8.4929,
+            1.266,
+            8.4967,
+            1.2649,
+            8.6909,
+            0.6238,
+            8.6879
+          ]
+        },
+        {
+          "content": "Machine Learning,",
+          "bounding_box": [
+            0.6246,
+            8.7708,
+            2.1897,
+            8.7864,
+            2.1877,
+            8.9759,
+            0.6227,
+            8.9596
+          ]
+        },
+        {
+          "content": "SQL,",
+          "bounding_box": [
+            0.6317,
+            9.0571,
+            1.0648,
+            9.0589,
+            1.064,
+            9.2487,
+            0.6309,
+            9.2468
+          ]
+        },
+        {
+          "content": "Power BI,",
+          "bounding_box": [
+            0.6267,
+            9.3343,
+            1.4609,
+            9.3379,
+            1.4601,
+            9.5228,
+            0.6259,
+            9.5192
+          ]
+        },
+        {
+          "content": "Statistics,",
+          "bounding_box": [
+            0.6324,
+            9.6191,
+            1.4485,
+            9.6263,
+            1.447,
+            9.8025,
+            0.6308,
+            9.7953
+          ]
+        },
+        {
+          "content": "Pandas,",
+          "bounding_box": [
+            0.6272,
+            9.905,
+            1.2676,
+            9.9098,
+            1.2663,
+            10.0867,
+            0.6258,
+            10.0819
+          ]
+        },
+        {
+          "content": "NumPy,",
+          "bounding_box": [
+            0.621,
+            10.1812,
+            1.2964,
+            10.1899,
+            1.2951,
+            10.3836,
+            0.6178,
+            10.3724
+          ]
+        },
+        {
+          "content": "Data Cleaning,",
+          "bounding_box": [
+            0.6275,
+            10.461,
+            1.8708,
+            10.4725,
+            1.8684,
+            10.664,
+            0.625,
+            10.6481
+          ]
+        },
+        {
+          "content": "Feature Engineering",
+          "bounding_box": [
+            0.626,
+            10.7408,
+            2.3192,
+            10.7493,
+            2.3171,
+            10.9461,
+            0.624,
+            10.9282
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "paragraphs": [
+    {
+      "content": "BRIAN SMITH",
+      "role": null
+    },
+    {
+      "content": "CONTACT",
+      "role": null
+    },
+    {
+      "content": "E-mail: brian.smith@example.com",
+      "role": null
+    },
+    {
+      "content": "Phone number: 555-987-654",
+      "role": null
+    },
+    {
+      "content": "LinkedIn: linkedin.com/in/briansmit",
+      "role": null
+    },
+    {
+      "content": "PROFILE",
+      "role": null
+    },
+    {
+      "content": "Analytical data analyst with experience in predictive modeling and business intelligence. Skilled in Python, SQL, and Power BI, translating complex datasets into actionable insights for business strategies.",
+      "role": null
+    },
+    {
+      "content": "WORK EXPERIENCE",
+      "role": null
+    },
+    {
+      "content": "DATA ANALYST Insight Corp March 2021 - Present",
+      "role": null
+    },
+    {
+      "content": "Analyzed large sales datasets to identify trends and insights. Built predictive models for customer behavior and campaign performance using Python and machine learning techniques. Created interactive dashboards and visualizations to support business teams in strategic decision-making. Collaborated with cross- functional teams to optimize data collection and reporting processes.",
+      "role": null
+    },
+    {
+      "content": "EDUCATION",
+      "role": null
+    },
+    {
+      "content": "B.S in Statistics 2015 - 2019 Ohio State University",
+      "role": null
+    },
+    {
+      "content": "Focused on statistical modeling, data analysis, and probability theory. Completed coursework in regression analysis, machine learning, and data visualization.",
+      "role": null
+    },
+    {
+      "content": "SKILLS",
+      "role": "sectionHeading"
+    },
+    {
+      "content": "Python, Machine Learning, SQL, Power BI, Statistics, Pandas, NumPy, Data Cleaning, Feature Engineering",
+      "role": null
+    }
+  ],
+  "key_value_pairs": [],
+  "all_text": "BRIAN SMITH\nCONTACT\nE-mail: brian.smith@example.com\nPhone number: 555-987-654\nLinkedIn: linkedin.com/in/briansmit\nPROFILE\nAnalytical data analyst with experience in predictive modeling and business intelligence. Skilled in Python, SQL, and Power BI, translating complex datasets into actionable insights for business strategies.\nWORK EXPERIENCE\nDATA ANALYST Insight Corp March 2021 - Present\nAnalyzed large sales datasets to identify trends and insights. Built predictive models for customer behavior and campaign performance using Python and machine learning techniques. Created interactive dashboards and visualizations to support business teams in strategic decision-making. Collaborated with cross- functional teams to optimize data collection and reporting processes.\nEDUCATION\nB.S in Statistics 2015 - 2019 Ohio State University\nFocused on statistical modeling, data analysis, and probability theory. Completed coursework in regression analysis, machine learning, and data visualization.\nSKILLS\nPython, Machine Learning, SQL, Power BI, Statistics, Pandas, NumPy, Data Cleaning, Feature Engineering"
+}

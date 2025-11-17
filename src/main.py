@@ -8,7 +8,7 @@ def main():
     loader = Loader()
     cvs = loader.cv_loader() 
 
-    job_offer = loader.job_offer_loader(filename="data_scientist.txt")
+    job_offer = loader.job_offer_loader(filename="sap_bw_analyst.txt")
 
     matcher = Matcher()
     result = matcher.match(job_offer=job_offer, cv_list=cvs)

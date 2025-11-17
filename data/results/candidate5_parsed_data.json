@@ -1,0 +1,35 @@
+{
+  "personal_info": {
+    "name": "Anna Green",
+    "email": "anna.green@example.com",
+    "phone": "886-123-344",
+    "linkedin": null
+  },
+  "experience": [
+    {
+      "position": "Content Marketing Specialist",
+      "company": "Consulting Group",
+      "start_date": "June 2021",
+      "end_date": "Present",
+      "description": "Responsible for creating articles, posts, and campaign assets. Supports social media strategy execution, monitors basic campaign metrics, and collaborates with design and sales teams. Prepares weekly performance summaries and assists in simple data reporting tasks.",
+      "technologies": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A.",
+      "field_of_study": "Marketing",
+      "institution": "University of Warsaw",
+      "graduation_year": "2021",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Content Creation",
+    "Social Media Marketing",
+    "Excel",
+    "Communication",
+    "Copywriting",
+    "Basic Analytics"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "personal_info": {
+    "name": "Anna Kowalska",
+    "email": "anna.kowalska@example.com",
+    "phone": "555-111-222",
+    "linkedin": "linkedin.com/in/annakowalska"
+  },
+  "experience": [
+    {
+      "position": "SAP BW Consultant",
+      "company": "DataTech Solutions",
+      "start_date": "January 2020",
+      "end_date": "Present",
+      "description": "Design, develop, and maintain SAP BW data models, including InfoObjects, DSOs, and MultiProviders. Implement ETL workflows using SAP Data Services and custom ABAP routines. Optimize query execution and troubleshoot data inconsistencies, Responsible for BW architecture improvements, documentation, and ensuring end-to-end data quality.",
+      "technologies": [
+        "SAP BW",
+        "ABAP",
+        "ETL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S.",
+      "field_of_study": "Computer Science",
+      "institution": "Warsaw University of Technology",
+      "graduation_year": "2018",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "SAP BW",
+    "ABAP",
+    "ETL",
+    "SQL",
+    "Data Warehousing",
+    "Reporting",
+    "Business Intelligence",
+    "Excel"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "personal_info": {
+    "name": "Michael Turner",
+    "email": "Michael.turner@example.com",
+    "phone": "555-333-444",
+    "linkedin": null
+  },
+  "experience": [
+    {
+      "position": "Data Analyst",
+      "company": "TechCorp",
+      "start_date": "March 2018",
+      "end_date": "Current",
+      "description": "Develop and maintain SQL-based reports used by business stakeholders across operations and finance. Build and optimize Excel dashboards, ensuring data accuracy and usability. Support basic ETL workflows, including data extraction, validation, and preparation for downstream use. Familiar with SAP BW processes, including cube navigation and data retrieval, but no hands-on ABAP development.",
+      "technologies": [
+        "SQL",
+        "Excel",
+        "ETL",
+        "SAP BW"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S.",
+      "field_of_study": "Information Systems",
+      "institution": "Arizona State University",
+      "graduation_year": "2017",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Excel",
+    "ETL",
+    "SAP BW",
+    "Reporting"
+  ]
+}

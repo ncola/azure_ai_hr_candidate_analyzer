@@ -1,0 +1,33 @@
+{
+  "personal_info": {
+    "name": "Jason Miller",
+    "email": "jason.miller@example.com",
+    "phone": "454-123-124",
+    "linkedin": "linkedin.com/in/jasonmiller"
+  },
+  "experience": [
+    {
+      "position": "Sales Assistant",
+      "company": "Market Inc",
+      "start_date": "January 2020",
+      "end_date": "Present",
+      "description": "Assist sales and marketing teams with daily operational tasks, prepare simple Excel-based reports, support campaign coordination, and maintain customer communication. Responsible for updating promotional materials, tracking basic KPIs, and ensuring smooth execution of marketing activities.",
+      "technologies": [
+        "Excel"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A.",
+      "field_of_study": "Business Administration",
+      "institution": "University of Tenessee",
+      "graduation_year": "2019",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    "Excel",
+    "Communication"
+  ]
+}
