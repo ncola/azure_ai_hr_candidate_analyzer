@@ -1,6 +1,12 @@
-# HR CV Analyzer - Instrukcje użycia
+# HR Candidate Analyzer - Instrukcje użycia
 
-System do automatycznej analizy CV przy użyciu Azure Document Intelligence i GPT-4o.
+System do automatycznej analizy CV kandydatów i wyboru najlepszych do zadanej oferty pracy przy użyciu Azure Document Intelligence i GPT-4o.
+
+**Funkcjonalności:**
+- **Ekstrakcja danych z CV** - automatyczne wyciąganie informacji z plików PDF
+- **Parsing przez AI** - strukturyzacja danych przez GPT-4o
+- **Matching kandydatów** - dopasowywanie CV do wymagań oferty pracy
+- **Ranking TOP 3** - wybór najlepszych kandydatów z oceną dopasowania
 
 ## Quick Start
 
@@ -39,6 +45,33 @@ python src/gpt_cv_parser.py data/results/candidate_cv_raw_data.json --structured
 ```
 **Output**: `data/results/candidate_cv_parsed_data.json` - strukturalne dane CV
 
+### 3. Dopasowywanie CV do ofert pracy
+```bash
+python src/main.py <nazwa_pliku_oferty_pracy>
+```
+
+**Przykłady:**
+```bash
+# Analiza dla stanowiska SAP BW Analyst
+python src/main.py sap_bw_analyst.txt
+
+# Analiza dla stanowiska Data Scientist
+python src/main.py data_scientist.txt
+
+# Analiza dla stanowiska Marketing Analyst  
+python src/main.py marketing_analyst.txt
+```
+
+**Wymagania:**
+- Co najmniej jeden plik CV musi być przetworzony (istnieć w `data/results/` z końcówką `_parsed_data.json`)
+- Plik z ofertą pracy musi istnieć w `data/job_offers/`
+
+**Output**: JSON z rankingiem TOP 3 kandydatów zawierający:
+- `candidate_id` - ID kandydata
+- `matched_skills` - umiejętności pasujące do oferty
+- `missing_skills` - brakujące umiejętności
+- `score` - procent dopasowania (0.0-1.0)
+
 ## 🎛️ Tryby przetwarzania GPT
 
 ### Tryb domyślny (czysty tekst)
@@ -62,9 +95,9 @@ hr_ai_analizer/
 │   ├── .env               # Konfiguracja Azure (NIE COMMITUJ!)
 │   └── *.py               # Pliki Python
 ├── data/
-│   ├── resume/            # Wejściowe pliki PDF (ignorowane przez Git)
-│   ├── results/           # Wyniki przetwarzania (ignorowane przez Git)
-│   └── job_offers/        # Opisy stanowisk (ignorowane przez Git)
+│   ├── resume/            # Wejściowe pliki PDF 
+│   ├── results/           # Wyniki przetwarzania
+│   └── job_offers/        # Opisy stanowisk
 ├── venv/                  # Środowisko wirtualne
 └── requirements.txt       # Zależności Python
 ```
@@ -75,7 +108,7 @@ hr_ai_analizer/
 
 **Azure Document Intelligence:**
 1. Zaloguj się do [Azure Portal](https://portal.azure.com)
-2. Utworz nową usługę: `+ Create a resource` → `AI + Machine Learning` → `Document Intelligence`
+2. Utworz nową usługę: `+ Create a resource` → `AI Apps` → `Document Intelligence`
 3. Po utworzeniu przejdź do `Keys and Endpoint`
 4. Skopiuj `KEY 1` i `Endpoint`
 
@@ -100,7 +133,7 @@ AZURE_OPENAI_KEY=your_openai_key_here
 AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4o
 
 # Project configuration
-PROJECT_ROOT=/home/user/klasteryzacja/projekt
+PROJECT_ROOT=/home/user/projekt
 
 # Kaggle API (OPCJONALNE - tylko do pobierania testowych danych)
 KAGGLE_USERNAME=your_kaggle_username
@@ -142,6 +175,21 @@ venv\Scripts\activate     # Windows
 # Zainstaluj zależności
 pip install -r requirements.txt
 ```
+
+## Dostępne oferty pracy
+
+System zawiera przykładowe oferty pracy w folderze `data/job_offers/`:
+
+| Plik | Stanowisko | Główne technologie |
+|------|------------|-------------------|
+| `sap_bw_analyst.txt` | SAP BW Analyst | SAP BW, SQL, ABAP, Business Intelligence |
+| `data_scientist.txt` | Data Scientist | Python, Machine Learning, SQL, Statistics |
+| `marketing_analyst.txt` | Marketing Analyst | Google Analytics, Excel, Marketing Automation |
+
+**Dodawanie własnych ofert:**
+1. Utwórz plik `.txt` w folderze `data/job_offers/`
+2. Wpisz opis stanowiska i wymagania
+3. Uruchom: `python src/main.py nazwa_twojego_pliku.txt`
 
 ## Format danych wyjściowych
 
@@ -193,11 +241,11 @@ python src/process_cv.py data/resume/your_cv.pdf
 
 ### Wejściowe
 - Umieść pliki PDF w `data/resume/`
-- Obsługiwane: tylko pliki PDF
+- Obsługiwane: tylko pliki PDF w formacie candidatei.pdf
 
 ### Wyjściowe (automatycznie w `data/results/`)
 - `*_raw_data.json` - surowe dane z Azure Document Intelligence
-- `*_parsed_data.json` - sparsowane dane przez GPT-4o (finałowy rezultat)
+- `*_parsed_data.json` - sparsowane dane przez GPT-4o podawane do matchera
 
 ## Troubleshooting
 
@@ -259,7 +307,8 @@ python src/process_cv.py twoj_cv.pdf
 4. **Skonfiguruj Azure** (zobacz sekcję wyżej)
 5. **Testuj konfigurację**: `python src/test_config.py`
 6. **Pobierz testowe dane** (opcjonalne): `python src/download_dataset.py`
-7. **Uruchom**: `python src/process_cv.py data/resume/twoj_cv.pdf`
+7. **Uruchom przygotowanie CV**: `python src/process_cv.py data/resume/twoj_cv.pdf`
+8. **Uruchom dopasowanie do oferty pracy**: `python src/main.py <nazwa_pliku_oferty_pracy>`
 
 ## Use Cases
 

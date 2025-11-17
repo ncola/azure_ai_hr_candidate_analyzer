@@ -31,13 +31,13 @@ class AzureConfig:
     # Azure OpenAI Configuration
     OPENAI_ENDPOINT = os.getenv('AZURE_OPENAI_ENDPOINT')
     OPENAI_KEY = os.getenv('AZURE_OPENAI_KEY')
-    OPENAI_API_VERSION = os.getenv('AZURE_OPENAI_API_VERSION', '2024-02-01')
+    OPENAI_API_VERSION = os.getenv('AZURE_OPENAI_API_VERSION', '2025-01-01-preview')
     OPENAI_DEPLOYMENT_NAME = os.getenv('AZURE_OPENAI_DEPLOYMENT_NAME', 'gpt-4o')
     
     # Project Configuration
-    PROJECT_ROOT = os.getenv('PROJECT_ROOT', '/home/agsmolag/klasteryzacja/venv_setup')
-    DATA_PATH = os.getenv('DATA_PATH', '/home/agsmolag/klasteryzacja/venv_setup/data')
-    
+    PROJECT_ROOT = os.getenv('PROJECT_ROOT', '/home/azure_ai_hr_candidate_analyzer')
+    DATA_PATH = os.getenv('DATA_PATH', '/home/azure_ai_hr_candidate_analyzer/data')
+
     @staticmethod
     def validate_document_intelligence_config():
         """Validate Document Intelligence configuration"""
@@ -111,7 +111,7 @@ class GPTConfig:
     """GPT parsing configuration"""
     
     # Default temperature for parsing tasks
-    TEMPERATURE = 0.1  # Low temperature for consistent parsing
+    TEMPERATURE = 0.0  # Low temperature for consistent parsing
     
     # Maximum tokens for parsing response
     MAX_TOKENS = 2000
@@ -150,6 +150,40 @@ Extract the following information from the JSON with raw data and return it as a
 }
 
 Return only the JSON object, no additional text."""
+
+
+class GPTMatcherConfig:
+    """GPT configuration for CV-job matching"""
+    
+    # Temperature for matching tasks
+    TEMPERATURE = 0.0  # Very low temperature for consistent ranking
+    
+    # Maximum tokens for matching response
+    MAX_TOKENS = 2000
+    
+    # System prompt for CV-job matching
+    SYSTEM_PROMPT = """You are an AI HR assistant that compares job descriptions with multiple candidate CVs.
+You MUST return output strictly as JSON, compact, with no explanations, markdown, or formatting.
+
+Focus ONLY on the skills section. For each CV:
+- matched_skills: skills literally present both in the CV and required by the job
+- missing_skills: skills required by the job but not present in CV
+
+Only consider skills literally listed in the job offer and in the candidate's CV, without any additional or assumed skills.
+
+Sort candidates by score descending and return ONLY the top 3 candidates. The best candidate is the one that matches the most required skills.
+
+Return JSON strictly in this structure:
+
+{
+  "top_3": [
+    {
+      "candidate_id": "candidate number",
+      "matched_skills": ["skill1", "skill2"],
+      "missing_skills": ["skill3"]
+    }
+  ]
+}"""
 
 
 # Utility functions

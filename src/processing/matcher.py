@@ -6,7 +6,7 @@ Plik w ktorym:
 
 """
 
-from config import AzureConfig
+from config import AzureConfig, GPTMatcherConfig
 import json
 
 class Matcher():
@@ -15,34 +15,9 @@ class Matcher():
         self.deployment_name = AzureConfig.OPENAI_DEPLOYMENT_NAME
 
     def _system_message(self):
-        system_message = """
-            You are an AI HR assistant that compares job descriptions with multiple candidate CVs.
-            You MUST return output strictly as JSON, compact, with no explanations, markdown, or formatting.
-
-            Focus ONLY on the skills section. For each CV:
-            - matched_skills: skills literally present both in the CV and required by the job
-            - missing_skills: skills required by the job but not present in CV
-
-            Only consider skills literally listed in the job offer and in the candidate's CV, without any additional or assumed skills.
-
-            Sort candidates by score descending and return ONLY the top 3 candidates. The best candidate is the one that matches the most required skills.
-
-            Return JSON strictly in this structure:
-
-            {
-            "top_3": [
-                {
-                "candidate_id": "candidate number",
-                "matched_skills": ["skill1", "skill2"],
-                "missing_skills": ["skill3"]
-            }
-        ]
-        } 
-            """
-        
         return {
             "role": "system",
-            "content": system_message.strip()
+            "content": GPTMatcherConfig.SYSTEM_PROMPT
         }
 
 
@@ -76,8 +51,8 @@ class Matcher():
         response = self.client.chat.completions.create(
         model=self.deployment_name,
         messages=messages,
-        temperature=0.0,
-        max_tokens=2000
+        temperature=GPTMatcherConfig.TEMPERATURE,
+        max_tokens=GPTMatcherConfig.MAX_TOKENS
     )
 
         content = response.choices[0].message.content

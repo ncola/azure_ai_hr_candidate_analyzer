@@ -13,17 +13,23 @@ class Loader:
 
     def cv_loader(self) -> list[dict]:
         """
-        Function to load all CV JSON files from cv_folder and assign candidate_id based on filename
-        It returns list of proccesed cv
+        Function to load only CV JSON files ending with '_parsed_data.json' from cv_folder 
+        and assign candidate_id based on filename
+        It returns list of processed cv
         """
         cvs = []
         for filename in os.listdir(self.cv_folder):
-            if filename.endswith(".json"):
+            if filename.endswith("_parsed_data.json"):
                 with open(self.cv_folder/filename, "r", encoding="utf-8") as f:
                     cv_data = json.load(f)
                     stem = Path(filename).stem  
-                    if stem.startswith("candidate") and stem[9:].isdigit():
-                        cv_data["candidate_id"] = int(stem[9:])
+                    # Extract candidate number from filename like "candidate1_parsed_data"
+                    if stem.startswith("candidate"):
+                        candidate_part = stem[9:].split("_parsed_data")[0]
+                        if candidate_part.isdigit():
+                            cv_data["candidate_id"] = int(candidate_part)
+                        else:
+                            cv_data["candidate_id"] = None
                     else:
                         cv_data["candidate_id"] = None 
                     cvs.append(cv_data)
