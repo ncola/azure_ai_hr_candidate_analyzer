@@ -66,6 +66,7 @@ hr_ai_analizer/
 │   ├── results/           # Wyniki przetwarzania (ignorowane przez Git)
 │   └── job_offers/        # Opisy stanowisk (ignorowane przez Git)
 ├── venv/                  # Środowisko wirtualne
+├── streamlit_app.py       # Frontend                
 └── requirements.txt       # Zależności Python
 ```
 
