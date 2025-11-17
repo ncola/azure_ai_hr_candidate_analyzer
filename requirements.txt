@@ -8,3 +8,6 @@ kaggle
 
 # Podstawowe biblioteki
 python-dotenv
+
+# Frontend must-have req
+streamlit

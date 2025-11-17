@@ -24,6 +24,19 @@ python src/process_cv.py data/resume/candidate_cv.pdf
 **Output**: `data/results/candidate_cv_parsed_data.json` - gotowe, strukturalne dane CV
 **Output**: `data/results/candidate_cv_raw_data.json` - surowe dane z Azure (backup)
 
+### 1a. Interfejs webowy (opcjonalnie)
+Po przygotowaniu przetworzonych plików `candidate_*.json` możesz uruchomić prosty frontend w Streamlit:
+
+```bash
+pip install -r requirements.txt  # upewnij się, że masz zainstalowany Streamlit
+streamlit run streamlit_app.py
+```
+
+Interfejs pozwala:
+- wybrać ofertę pracy z `data/job_offers` lub wkleić własną treść,
+- wskazać przetworzone CV z `data/results` albo przesłać je ręcznie jako JSON,
+- uruchomić dopasowanie kandydatów i obejrzeć ranking wraz z listą dopasowanych/brakujących umiejętności.
+
 ### 2. Przetwarzanie krok po kroku
 
 #### Krok 1: Wyciągnij surowe dane z PDF
@@ -99,6 +112,7 @@ hr_ai_analizer/
 │   ├── results/           # Wyniki przetwarzania
 │   └── job_offers/        # Opisy stanowisk
 ├── venv/                  # Środowisko wirtualne
+├── streamlit_app.py       # Frontend                
 └── requirements.txt       # Zależności Python
 ```
 
